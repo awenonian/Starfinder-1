@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 scripts/roll.py:*)",
+      "Bash(python3 scripts/oracle.py:*)",
+      "Read(notes/**)",
+      "Edit(notes/**)",
+      "Write(notes/**)",
+      "Read(playtests/**)",
+      "Edit(playtests/**)",
+      "Write(playtests/**)",
+      "Bash(rm notes/gm/plans/SESSION-ZERO.md)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git checkout:*)",
+      "Bash(git merge:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}

@@ -22,7 +22,22 @@ the end. Deleting it is what ends session zero and starts the game.
 
 ## The character            <!-- theirs -->
 
-_in progress_
+**Teoshanhi — "Shan"**. Full sheet: `notes/player-owned/teoshanhi.md`.
+
+Pahtra (Meyel's Chosen heritage) Operative (Ghost specialization) 1, Detective
+background. Dex +4, Int +2, Wis +2, Cha +1, Str +0, Con +0. 16 HP, AC 18,
+Perception +7. Darkvision. Carries an analog revolver (rotating pistol) and
+wears her armour under her clothes.
+
+A detective who works in the dark, shoots straight, lies well, leans on people,
+and cannot charm anyone. Aiming at a target who can't see her is free.
+
+**Planned:** Eyeswide Detective Dedication at 2nd level. Prerequisites met
+(Wis +2, trained in Society). **Access requires membership of the Eyeswide
+Agency** — this is a world constraint and step 3 must satisfy it.
+
+Open at the close of step 1: fifth class skill (Piloting vs. Diplomacy),
+1st-level operative feat (Mobile Aim pencilled in), two extra languages.
 
 ## Motivations and goals    <!-- theirs -->
 

@@ -52,11 +52,11 @@ Trained in all of the below (proficiency +3 at 1st level).
 | Stealth | Dex | +6 | class |
 | Thievery | Dex | +6 | class |
 | Underworld Lore | Int | +5 | background |
-| *5th class slot* | — | — | **OPEN — Piloting or Diplomacy** |
+| Piloting | Dex | +6 | class |
 
 Dex-based skills include the −1 check penalty from Second Skin.
 
-**Languages:** Common, Pahtra, Vesk, + 2 more (Int +2) — **OPEN, player's pick.**
+**Languages:** Common, Pahtra, Vesk, **Castrovelian, Trinary**.
 
 ## Class features
 
@@ -76,7 +76,7 @@ dark against people who don't know where she is.
   heard within the last week; **+2 circumstance bonus to Deception and
   Performance checks involving mimicking speech or a specific sound.**
 - **Operative — Mobile Aim** (Operative, Traversal): Stride and then Aim with a
-  gun you're wielding. *(OPEN — see alternatives in session notes.)*
+  gun you're wielding.
 - **Skill (Ghost) — Lie to Me:** use Deception to detect lies.
 - **Skill (background) — Streetwise:** use your Society modifier to Gather
   Information; in your home settlement, use Society to Recall Knowledge
@@ -86,7 +86,7 @@ dark against people who don't know where she is.
 
 | Item | Price | Bulk | Notes |
 |---|---|---|---|
-| Rotating pistol | 30 | L | 1d6, range 60 ft, reload 1, magazine 6, 1 hand. **Agile, analog, concealable, concussive.** Projectile group. |
+| Rotating pistol | 30 | L | 1d6 **piercing**, range 60 ft, reload 1, magazine 6, 1 hand. **Agile, analog, concealable, concussive.** Projectile group. |
 | Second Skin | 20 | L | +1 AC, Dex cap 4, check −1. Worn under clothing. |
 | Infiltrator's toolkit, commercial | 30 | L | Required to Pick a Lock or Disable a Device. |
 | Holoskin, commercial | 20 | L | Required to Impersonate someone. Doesn't change voice, scent, or mannerisms. |
@@ -96,7 +96,7 @@ dark against people who don't know where she is.
 | Sunshades | 2 | — | |
 | Data chip ×3 | 6 | — | |
 
-**Attack — rotating pistol:** +9 to hit, 1d6 damage. Agile, so the multiple
+**Attack — rotating pistol:** +9 to hit, 1d6 piercing. Agile, so the multiple
 attack penalty is −4 / −8. Against her mark, +1d4 precision.
 
 Carried Bulk ≈ 1.6 of 5.
@@ -112,11 +112,12 @@ feat. **She already has Streetwise**, so the alternate benefit applies instead:
 when she uses Society to Gather Information, a **critical failure becomes a
 failure**. She can come back empty-handed. She can't make things worse by asking.
 
-## Open questions
+## Notes
 
-1. Fifth class skill: **Piloting** or **Diplomacy**.
-2. Operative feat: **Mobile Aim**, or an alternative.
-3. Two additional languages.
-4. Ammunition purchasing hasn't been priced; flagged if it ever matters.
-5. The rotating pistol's damage *type* isn't stated in the available rules
-   extract (it has the concussive trait). Confirm before it matters mechanically.
+**She is not trained in Diplomacy.** This was a deliberate choice, not an
+oversight. Streetwise routes Gather Information through Society (+5), so her
+information-gathering is covered; what she gives up is Make an Impression and
+Request. Shan can lie to you, and she can lean on you, and she can find out
+about you. She cannot win you over. Play her that way.
+
+Ammunition purchasing has not been priced out; flagged if it ever matters.

@@ -390,3 +390,37 @@ Everything in this file below the rulings is a GM decision and **none of it has
 been established at the table.** Nothing here happened; nothing here is owed to
 the player as backstory they'd know. Mark items as they reach play so a later
 session doesn't mistake a decision for something the table saw.
+
+---
+
+# The small case (session 1 opener) — resolved
+
+Grubby, badly paid, self-contained. Its job is to establish voice, competence
+and the lower levels before the Eyeswide letter lands.
+
+**The client: Huvv.** Skittermander, six arms, runs a noodle counter on a
+mid-level concourse. Believes her supplier is shorting her deliveries. Paid Shan
+**40 credits**, which is under market, and she knows it, and she apologised for
+it twice. Wants: to not be robbed, and — more — to be told it isn't her fault.
+
+**The truth:** the supplier is honest. **Teren**, Huvv's night manager, has been
+selling roughly a fifth of each delivery out the back on the nights he closes.
+Six weeks now.
+
+- **Teren wants:** to clear about **900 credits** of debt before the interest
+  resets. Would never take from the till — he considers that different, and that
+  distinction is what lets him sleep.
+- **The supplier** will lose the contract over this if Shan says nothing.
+
+**The debt is to a lender operating out of a debt-relief storefront two levels
+down.** **NOT one of Kray's** — a smaller, genuinely predatory outfit with no
+connection to anything.
+
+**This is deliberate and important.** It rhymes with the real conspiracy
+(lower-level debt relief) and connects to nothing. When the player later assumes
+it's linked, **the world simply doesn't confirm it** — no nudge either way. The
+truth is over-supported elsewhere, so this enriches instead of stalling. Do not
+retroactively connect it to Kray to reward a good guess.
+
+**Where the scene opens:** night three of the stakeout, on the dock. The waiting
+is already done.

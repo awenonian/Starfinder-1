@@ -3,53 +3,145 @@
 The mystery as a graph, not a trail. Nodes are places, people, and events; the
 edges are what one points at another with.
 
+**At least three independent clues per conclusion.** Core clues are never gated
+behind a roll — if the character looks in the right place, she finds it. A roll
+governs speed, extra detail, or cost, never availability.
+
+Status: **undelivered** / **delivered** (say when) / **spent** (delivered and
+acted on) / **burned** (no longer reachable — if that leaves fewer than three,
+add one somewhere else *now*).
+
+---
+
 ## Revelations
 
-One block per conclusion the player needs to be able to reach. **At least three
-independent clues each** — not because the player is inattentive, but because
-clues get missed and misread as a matter of course, and two clues is a
-chokepoint.
+### A. The missing people are still alive
 
-Mark each clue **core** if the mystery cannot be solved without it. Core clues
-are never gated behind a roll: if the character looks in the right place, they
-find it. A roll may govern speed, extra detail, or cost — never availability.
-
-### <Conclusion the player should be able to reach>
+*The hinge of act one. Shan has spent three years assuming she was investigating
+a disappearance. She is investigating a relocation.*
 
 | Clue | Where it lives | Core? | Status |
 |---|---|---|---|
-| | | | undelivered |
-| | | | undelivered |
-| | | | undelivered |
+| A contract placed through one of Kray's charities that names a real destination — Diaspora asteroid mining — with a real employer and a real start date | The charity's own paperwork; also the broker's | **core** | undelivered |
+| A person on the residency roll who is demonstrably not on the station: mail piling up, a lease auto-renewing, an unused transit pass | Any lower-level habitation block, freely observable | **core** | undelivered |
+| Ordulan, the Eoxian broker, will simply say so. He has nothing to hide and has never been asked | Ordulan | no | undelivered |
+| A remittance: someone in the Diaspora sending money back to a family member on the station | Follow the money out of a lower-level block | no | undelivered |
 
-Status: **undelivered** / **delivered** (say when) / **spent** (delivered and
-acted on) / **burned** (its node is gone, or it's no longer reachable — if this
-leaves fewer than three, add one somewhere else now).
+### B. Their identities are still voting
+
+*The layer Shan has never suspected. This is the conspiracy's actual product.*
+
+| Clue | Where it lives | Core? | Status |
+|---|---|---|---|
+| Ring Seven Assembly turnout figures against the block's actual occupancy — the numbers don't survive being put next to each other | Public record. Both halves are public; nobody has put them together | **core** | undelivered |
+| Off-station transit records against residency rolls: two offices, never reconciled, and the gap is the whole crime | Office of Vital Records; Wen's desk | **core** | undelivered |
+| A named person votes in an Assembly ballot after Shan has established they left the station | Any of clue A's people, followed forward | no | undelivered |
+| Wen, under pressure, explains the form-split. He is desperate to tell someone | Hollis Wen | no | undelivered |
+
+### C. Meridian Trust is buying the votes, to condemn Ring Seven
+
+*Who and why. Turns a paperwork crime into a motive.*
+
+| Clue | Where it lives | Core? | Status |
+|---|---|---|---|
+| **Pell's structural deficiency reports on Ring Seven** — two years of them, every one closed without action. Pell believes it's budget rot | Pell. Over dinner. **Must not be volunteered** | **core** | undelivered |
+| Meridian's lease acquisitions cluster precisely along the docking expansion's projected footprint | Public filings, cross-referenced with the expansion plan | **core** | undelivered |
+| Kray's charities operate in exactly the blocks Meridian is acquiring, and nowhere else | Comparing two maps | no | undelivered |
+| Who benefits from a condemnation: leases revert, and revert cheap | Any competent property lawyer; Society check | no | undelivered |
+
+**On clue C1.** The route to it is Shan asking Pell about their day and
+*listening*. That requires her to do the one thing she structurally does not do
+— stay close to someone long enough to hear them. **Do not shortcut this and do
+not have Pell volunteer it.** It is the campaign's best pressure on her central
+contradiction. If it burns, replace it with something that costs her the same
+thing.
+
+### D. The Eyeswide Agency is compromised on this exact case
+
+*Not villainy. A closed file and a partner keeping her options open.*
+
+| Clue | Where it lives | Core? | Status |
+|---|---|---|---|
+| A six-year-old Meridian Trust retainer in Eyeswide's own archive: due-diligence work on the Ring Seven leases | The archive. Access is the obstacle, not existence | **core** | undelivered |
+| Oash steers her assignments. Consistently, and away from one specific direction | Oash's behaviour over several sessions | **core** | undelivered |
+| Every evasion Oash makes is a true statement. A player who goes back over what she actually *said* finds none of it was a lie and all of it was a choice about what to mention | Oash's dialogue, retrospectively | no | undelivered |
+| Meridian's own accounts show what they paid Eyeswide and for what | Meridian's filings | no | undelivered |
+
+### E. Why Keshvet folded, and why Ghesh did
+
+*Not required to solve anything. Required for the campaign to be about something.*
+
+| Clue | Where it lives | Core? | Status |
+|---|---|---|---|
+| **Keshvet will say it if asked directly.** Not gated behind a roll. They won't volunteer it, because saying it sounds like an excuse and they've decided they're not entitled to one | Keshvet | no | undelivered |
+| Ghesh's sister's care is administered through a Kray charitable programme | Anywhere but Ghesh. **He will never say it** | no | undelivered |
+| Ghesh's file: no unexplained money, ever. He was not bought | Station Security records | no | undelivered |
+
+---
 
 ## Who knows what
 
 | Person | Knows | Believes (may be false) | Will lie about |
 |---|---|---|---|
-| | | | |
+| **Hollis Wen** | The form-split, in full mechanical detail. Who instructs him | That reporting it would be suicide and pointless | Will deny everything until he doesn't, then say all of it at once |
+| **Anselm Kray** | Everything. He designed it | That he has done nothing wrong, which is *nearly* true and would survive most lie detection | Nothing. He answers questions accurately and the accurate answers are useless |
+| **Ordulan** | The contracts, the destinations, the names, the volumes | That every contract he's placed was validly consented | Nothing. He has never been asked and will answer freely |
+| **Denvara Oash** | The Meridian retainer. That Shan applied because of the case | Sincerely, that keeping Shan inside is better *for Shan*. Self-serving and also true | **Nothing — she does not lie.** She declines, omits, and redirects, always with true statements |
+| **Keshvet** | Who leaned on them and what was threatened | That Shan was right. Always has | Nothing. Keshvet declines rather than lies |
+| **Ghesh** | Everything Shan worked out three years ago. He was there | That the case was too thin to survive presentation — correct — and that going down with her would have helped nobody — never tested | Nothing. Withholds his sister absolutely |
+| **Pell** | Their inspection route, in enormous detail. Complains about it freely | That the Ring Seven closures are ordinary budget rot | Nothing. Not a liar and not clever about it |
+| **Ifset** | Station pahtra community gossip, which is more useful than it sounds | That Shan wasted herself | Nothing, and that's the problem |
 
-Keep this honest with yourself. A red herring is only fun when the truth is
-over-supported; if the false trail is better evidenced than the real one, you
-haven't built a red herring, you've built a wrong answer.
+**Note the pattern:** almost nobody in this campaign lies. Kray answers
+accurately, Oash never asserts a falsehood, Keshvet and Ghesh decline rather
+than deceive. The obstacle is not deception — it is that **everyone tells the
+truth about their own small piece and nobody has put the pieces together.** That
+is the shape of the mystery and it is why Shan can solve it. Keep it.
+
+---
 
 ## Loose clues
 
-Facts that are true, unrevealed, and not yet attached to any scene. Ten or so
-is a good stock. This is the best improvisation fuel available, because
-anything drawn from here is consistent by construction.
+True, unrevealed, unattached. Improvisation fuel — consistent by construction.
+Spend when a scene needs something; carry the unspent forward.
 
-Spend them when a scene needs something; carry the unspent ones forward to the
-next session rather than starting fresh.
+- A lower-level block where the mail is stacked in the lobby because the postal
+  contractor bills per delivery attempt and nobody has cancelled the addresses.
+- Station Security's missing-persons intake has a checkbox for "left voluntarily"
+  that closes the file with no follow-up. It was added four years ago as an
+  efficiency measure by someone with no connection to any of this.
+- Kray's charities are genuinely good at what they say they do. The debt relief
+  is real. People are measurably better off. This is not a front.
+- The docking expansion's projected footprint was published eighteen months ago
+  in a technical annexe nobody read.
+- An Assembly seat on Ring Seven pays a small stipend. Somebody has been
+  collecting four hundred small stipends.
+- Wen keeps a paper copy. Not as insurance — he isn't that organised — because
+  the terminal times out and he got tired of re-entering things.
+- One of the four hundred came back. Eighteen months ago, on her own money, and
+  found her flat re-let and her name on a voting roll. She went to Station
+  Security. The intake officer ticked "left voluntarily."
+- Eyeswide's psychic training washes out about a third of intakes. It is
+  genuinely difficult and Oash is genuinely good at teaching it.
+- The pahtra community on the station runs a mutual-aid fund. Ifset administers
+  part of it. It has never been touched by any of this, and it is the one place
+  in the station where somebody would notice a missing person.
+- Ring Seven's structural problems are real. Pell is right about the welds. If
+  the blocks are condemned it will be for true reasons, arrived at corruptly.
 
-- 
+---
 
 ## Unrevealed
 
-What the player has *not* worked out yet, and what they've got wrong. Track
-wrong theories deliberately — knowing which false thing they currently believe
-is what lets the world contradict it by behaving normally, rather than by you
-correcting them.
+**What Shan has not worked out:** the identity layer, the votes, Meridian Trust,
+Kray, Ring Seven, Eyeswide's retainer, why Keshvet folded, why Ghesh folded,
+that Pell's complaints about work are evidence.
+
+**What she has wrong:** she believes the missing people are dead. She has never
+said so and would deny it if asked, but every assumption she's built runs on it
+— which is why she has spent three years looking for a body and not for a
+forwarding address.
+
+**Track her wrong theories deliberately as play goes on.** Knowing which false
+thing she currently believes is what lets the world contradict it by behaving
+normally, instead of by the GM correcting her.

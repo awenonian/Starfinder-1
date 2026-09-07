@@ -79,7 +79,41 @@ is under-resourced in precisely the neighbourhoods where that is convenient.
 "Headscanners," other people call them, and they let it stand. Better funded
 than the police and less accountable. They have archives, leverage, and reach.
 
+## The Huvv job — the brief, in plain terms
+
+**GM note: this was not stated clearly at the table before the scene opened.
+That was a mistake. It is written here so it cannot go fuzzy again.**
+
+**Huvv** runs a noodle counter on a mid-level concourse. She takes regular
+deliveries from a wholesale supplier — around **31 units** a delivery.
+
+**Her complaint:** for about six weeks her stock has been coming up short. She
+pays for a full delivery and what reaches her shelves is less than that. She
+assumed the supplier was billing for more than they dropped off, and hired Shan
+for **40 credits** to sit on the loading dock and catch them at it.
+
+**What Shan has established instead:** the shortfall is not happening at
+delivery. It happens afterwards, out the same door, around 0247, carried by
+**Teren** — Huvv's own night manager — onto a rented flatbed. The crates are
+Huvv's own legitimate stock with her supplier's markings on them.
+
+**Why the locked door mattered:** the **delivery manifest** is inside. The
+supplier's stated count, set against a physical count of the shelves, proves
+where between dock and shelf the stock disappears. That is the difference
+between Shan's word and a document that clears the supplier and names the room.
+
 ## Open, as of the start of play
 
 - **Shan's application to Eyeswide is in**, and has been for a while. It will be
   decided by Denvara Oash.
+
+## Open, as of session 1, 0330
+
+- **The Huvv job.** Shan knows who is taking the stock. She has no document.
+- **Registration ML-4471-K** — municipal-pattern rental flatbed, livery
+  half-scraped. Not looked up yet.
+- **Teren spooked** at 0247 and aborted, leaving two of six crates unloaded.
+- **Huvv's service door lock is broken**, with four millimetres of Shan's pick
+  sheared off in the keyway. Huvv's key will not turn on it in about five hours.
+- **Shan's infiltrator's toolkit is broken.** 3 credits for replacement picks;
+  she has 19.

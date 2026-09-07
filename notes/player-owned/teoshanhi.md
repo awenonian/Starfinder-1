@@ -21,7 +21,7 @@ Detective background (Wis +1, free→Dex +1); Operative class key attribute
 ## Core statistics
 
 - **Hit Points:** 16 (8 ancestry + 8 class + 0 Con)
-- **Armor Class:** 18 (10 + 4 Dex + 3 trained + 1 Second Skin)
+- **Armor Class:** 18 (10 + 4 Dex + 3 trained + 1 Second Skin). No check penalty — see Skills.
 - **Speed:** 25 feet
 - **Size:** Medium · **Senses:** Darkvision (black and white in darkness)
 - **Class DC:** 17
@@ -45,16 +45,22 @@ Trained in all of the below (proficiency +3 at 1st level).
 
 | Skill | Attr | Mod | Source |
 |---|---|---|---|
-| Acrobatics | Dex | +6 | class |
+| Acrobatics | Dex | **+7** | class |
 | Deception | Cha | +4 | Ghost specialization |
 | Intimidation | Cha | +4 | class |
 | Society | Int | +5 | background |
-| Stealth | Dex | +6 | class |
-| Thievery | Dex | +6 | class |
+| Stealth | Dex | **+7** | class |
+| Thievery | Dex | **+7** | class |
 | Underworld Lore | Int | +5 | background |
-| Piloting | Dex | +6 | class |
+| Piloting | Dex | **+7** | class |
 
-Dex-based skills include the −1 check penalty from Second Skin.
+**No armor check penalty.** Second Skin's Strength threshold is +0 and Shan's
+Strength modifier is +0, so she meets it: *"If you meet the armor's Strength
+threshold, you don't take this penalty."* (Player Core, Check Penalty.) Second
+Skin is also **flexible**, which would waive it for Acrobatics regardless.
+
+Corrected during session 1 — the sheet had wrongly applied −1 to all four
+Dex skills.
 
 **Languages:** Common, Pahtra, Vesk, **Castrovelian, Trinary**.
 
@@ -84,11 +90,13 @@ dark against people who don't know where she is.
 
 ## Equipment — 150 credits, 19 remaining
 
+**Current condition: infiltrator's toolkit broken.** See the table.
+
 | Item | Price | Bulk | Notes |
 |---|---|---|---|
 | Rotating pistol | 30 | L | 1d6 **piercing**, range 60 ft, reload 1, magazine 6, 1 hand. **Agile, analog, concealable, concussive.** Projectile group. |
 | Second Skin | 20 | L | +1 AC, Dex cap 4, check −1. Worn under clothing. |
-| Infiltrator's toolkit, commercial | 30 | L | Required to Pick a Lock or Disable a Device. |
+| Infiltrator's toolkit, commercial | 30 | L | Required to Pick a Lock or Disable a Device. **BROKEN — session 1.** Sheared a pick in Huvv's service door. Needs replacement picks (3 credits) or Crafting to Repair before it can be used again. |
 | Holoskin, commercial | 20 | L | Required to Impersonate someone. Doesn't change voice, scent, or mannerisms. |
 | Comm unit | 7 | L | |
 | Microphone | 8 | L | |

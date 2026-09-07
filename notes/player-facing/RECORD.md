@@ -50,3 +50,29 @@ inside, came out with nothing, said something to the cab that Shan was too far
 away to hear, and the hauler left with four crates instead of six.
 
 The microphone never got placed.
+
+**The break-in that wasn't.** Two crates never left the building. Shan went for
+the service door with the infiltrator's toolkit, reasoning that a locked door is
+what the toolkit is for.
+
+Player, on the trade: *"Sure, they're behind a locked door, but, that's what an
+infiltrators toolkit is for. Maybe we can get one part of this mystery."*
+
+**Rules correction, player-caught:** Second Skin's Strength threshold is +0 and
+Shan's Strength is +0, so she meets it and takes **no armour check penalty**.
+All four Dex skills are +7, not +6. Sheet fixed. The earlier Stealth check would
+have been 11 against DC 16 — still a failure.
+
+**Commercial lock: two successful DC 15 Thievery checks. Thievery +7.**
+First roll: 11, total **18 — success** (one of two; leaves damage visible on
+close scrutiny). Second roll: **natural 1**, total 8 — failure, worsened one
+degree by the natural 1 to **critical failure.**
+
+Per the rules: *"You break your toolkit and leave behind obvious damage."*
+
+She sheared a pick off in the keyway. She did not get in. There is a stub of
+steel in Huvv's service door lock and Huvv's key will not turn on it.
+
+**Standing consequences:** the toolkit needs 3 credits of replacement picks
+before it works again. And Teren — who aborted last night because he heard a
+noise — now has a visible break-in at the premises to point at.

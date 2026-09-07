@@ -88,15 +88,17 @@ dark against people who don't know where she is.
   Information; in your home settlement, use Society to Recall Knowledge
   (higher DC, no time cost).
 
-## Equipment — 150 credits, 19 remaining
+## Equipment — **14 credits remaining**
 
-**Current condition: infiltrator's toolkit broken.** See the table.
+Spent 5 in session 1: replacement picks (3) and a commercial lock (2). Toolkit
+repaired. Cost of living is **10 credits/week** at a Comfortable standard
+(GM Core), so this is about a week and a half of being a person.
 
 | Item | Price | Bulk | Notes |
 |---|---|---|---|
 | Rotating pistol | 30 | L | 1d6 **piercing**, range 60 ft, reload 1, magazine 6, 1 hand. **Agile, analog, concealable, concussive.** Projectile group. |
 | Second Skin | 20 | L | +1 AC, Dex cap 4, check −1. Worn under clothing. |
-| Infiltrator's toolkit, commercial | 30 | L | Required to Pick a Lock or Disable a Device. **BROKEN — session 1.** Sheared a pick in Huvv's service door. Needs replacement picks (3 credits) or Crafting to Repair before it can be used again. |
+| Infiltrator's toolkit, commercial | 30 | L | Required to Pick a Lock or Disable a Device. Sheared a pick in Huvv's service door in session 1; replacement picks bought for 3 credits. **Working.** |
 | Holoskin, commercial | 20 | L | Required to Impersonate someone. Doesn't change voice, scent, or mannerisms. |
 | Comm unit | 7 | L | |
 | Microphone | 8 | L | |

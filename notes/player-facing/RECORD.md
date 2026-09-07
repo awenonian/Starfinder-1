@@ -76,3 +76,37 @@ steel in Huvv's service door lock and Huvv's key will not turn on it.
 **Standing consequences:** the toolkit needs 3 credits of replacement picks
 before it works again. And Teren — who aborted last night because he heard a
 noise — now has a visible break-in at the premises to point at.
+
+**The lock, again.** Shan chose to fit the replacement herself rather than pay a
+locksmith — 5 credits against 8, which the player noted was "like 15% of my net
+worth." Down to **14 credits**.
+
+Player, spotting the consequence of their own plan: *"If I'm replacing the lock
+wholesale, that means the door will be without a lock for a bit, so I can go
+find the manifest. And Shanhi wouldn't resist that temptation, even though it's
+what got her into this mess."*
+
+No roll — professional, unpressured, four and a half hours, empty concourse.
+
+**What she found inside, 0415–0445:**
+- Delivery manifest, two days old: **31 units**, supplier's chit, signed.
+- Physical count on the shelves: **27**.
+- The four that left on the hauler close the gap exactly. **The supplier
+  delivered what they billed for.**
+- Six weeks of prior manifests in a paper folder. All consistent.
+- The till sits unlocked overnight with a float in it. Untouched. Six weeks.
+- On the staff shelf, in a coat pocket: **a repayment book.** Cheap printed
+  booklet, stamped entries, from a lender working out of a debt-relief
+  storefront two levels down. **Balance remaining: 940 credits. Next payment
+  due in nine days.**
+
+New lock fitted and tested by 0500. Two keys.
+
+**0447** — automated dispatch to her comm unit. **The Eyeswide Agency approved
+her application.** D. Oash, Senior Partner. Office on Ring Three, 0900, day
+after tomorrow.
+
+> "I've read your file. All of it, including the parts that aren't flattering,
+> and it's the parts that aren't flattering that got you the interview."
+
+**0834** — Huvv arrives.

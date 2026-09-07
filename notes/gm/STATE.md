@@ -40,6 +40,8 @@ consistently.
 | Situation | Ruling | When |
 |---|---|---|
 | Shan's noir inner monologue is narrated aloud while she has limited telepathy | Mechanically unchanged (RAW: deliberate send, no thought access). Narratively, a novice leaks — see full ruling below. | Session zero |
+| Tradesperson callout rates (not in the rules) | Anchored to GM Core's cost-of-living scale, where 10 credits = one week Comfortable. Locksmith: **8 credits** standard callout in business hours (drill, supply, fit, cut keys); **20 credits** for a guaranteed short-notice out-of-hours rush. Scale other trades similarly. | Session 1 |
+| Swapping a cheap lock cylinder | No roll for a character trained in Thievery with a toolkit, unpressured. It is a screwdriver job and she opens these professionally. A roll would only govern speed or traces under pressure. | Session 1 |
 
 ---
 

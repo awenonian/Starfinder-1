@@ -110,3 +110,25 @@ after tomorrow.
 > and it's the parts that aren't flattering that got you the interview."
 
 **0834** — Huvv arrives.
+
+**The report.** Shan got up with a groan and gave it straight, in this order:
+
+> "I'm not sure there's any way my report would be good, given the nature."
+
+Handed over the manifest.
+
+> "Your supplier was fine. Gave every package they said. It's your man Teren.
+> He slips some of the stock out the back on some nights. Loads it onto a
+> truck. I saw him load 4 packages, and you're 4 packages light."
+
+Then the keys.
+
+> "I made a mistake trying to be thorough. Broke your lock. Here's the new keys."
+
+**She did not mention the repayment book.** Facts delivered; the *why* withheld,
+at least for now. Consistent with her INTENTION — she hands people the fact and
+leaves them to decide — but it is a choice, and Huvv has no way to know there is
+anything else to ask about.
+
+Huvv's supplier is named **Rennick**. Huvv has been short with him on the comm
+for six weeks while he apologised to her.

@@ -17,3 +17,16 @@ Format, loosely:
 > **Who** — what they committed to. To whom. What it cost. *(session/scene)*
 
 ---
+
+> **Teoshanhi** — told Huvv the whole truth, unprompted and against her own
+> interest: that she broke the lock trying to be thorough, and that she went
+> through Teren's coat. Gave the findings first and the apology second, and
+> named Teren's debt as motive without recommending anything. Cost her the
+> clean version of her own conduct and any leverage she had over how it looked.
+> *(Session 1, the concourse, 0834)*
+
+> **Huvv** — having been handed proof that her night manager of two years has
+> been robbing her for six weeks, committed out loud to **asking him herself**
+> rather than reporting him or dismissing him first. Said in front of Shan, who
+> did not talk her out of it. Costs her the element of surprise and any chance
+> of recovering the stock. *(Session 1, the concourse, 0834)*

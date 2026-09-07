@@ -132,3 +132,20 @@ anything else to ask about.
 
 Huvv's supplier is named **Rennick**. Huvv has been short with him on the comm
 for six weeks while he apologised to her.
+
+**The why.** Shan shrugged and gave it flat:
+
+> "Same as anyone might: For the money. I didn't see any money change hands
+> last night, but he owes a large sum to a lender. Found a book in his pocket.
+> This is easier to hide than robbing the till."
+
+No recommendation attached, and she volunteered that she'd gone through his
+coat. Huvv did not pick up on that second part.
+
+**Balance named: 940 credits.** For scale, Comfortable cost of living is 10
+credits a week — Teren owes close to two years of simply existing.
+
+**Huvv decided to ask him herself.** Tonight. Not report, not dismiss first.
+Shan did not argue with her.
+
+Huvv couldn't pay Shan anything further and fed her instead.

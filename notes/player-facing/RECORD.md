@@ -149,3 +149,21 @@ credits a week — Teren owes close to two years of simply existing.
 Shan did not argue with her.
 
 Huvv couldn't pay Shan anything further and fed her instead.
+
+**The noodles.** Shan took the meal. Ate standing at the counter because the
+stools weren't down. Huvv served the morning crowd around her, bright and loud
+with every customer and doing something else with her face for a second and a
+half in between.
+
+Huvv, when the bowl went down:
+
+> "You'll come back. Not for work. I'm not — I can't afford you, I know that.
+> Just. You could come and eat."
+
+Shan didn't answer. The player's monologue, unspoken and unheard — she has no
+telepathy yet:
+
+> "I got the job because of the parts that aren't flattering. I still wonder if
+> I'd prefer they didn't know."
+
+**Session 1 ends here**, 0910ish, at the counter, with the question hanging.

@@ -11,7 +11,12 @@ your decision for something the table established.
 
 ## Chaos factor
 
-**5** — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
+**4** — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
+
+Lowered from 5 at the end of session 1: Shan ended more in control than she
+started. She began with a stalled case and a pending application and finished
+with the case answered, the client told, and the Eyeswide job accepted — despite
+losing both rolls she made.
 
 Move it one step after a scene: up if the player ended less in control than
 they started, down if more. Not further, and not because a scene felt slow.
@@ -27,6 +32,7 @@ player stalls rather than forcing them to choose.
 | **The Ring Seven lease vote** | 6 | 0 | The Assembly votes to sell. Meridian gets the blocks; everyone still living in them is served notice. This is the thing the whole conspiracy exists to deliver, and it happens whether or not Shan is looking. |
 | **Wen's nerve** | 4 | 1 | Hollis Wen runs, or talks, or is removed. Ticks when anyone applies pressure anywhere near the Office of Vital Records — including pressure Shan doesn't know she applied. The most fragile point in the structure and the first to move. |
 | **Oash's patience** | 6 | 0 | Oash stops keeping the option open and decides. Ticks as Shan gets closer to the Meridian file. Which way it falls is genuinely undetermined — see her character file. |
+| **Teren's payment** | 4 | 0 | Due **nine days from session 1**. He has confessed, kept his job, and lost his only method of paying. Unopposed he tries to borrow from a second lender to cover the first. Unconnected to the main plot — see his file, and keep it that way. |
 
 **Tick these between sessions.** The situation Shan comes back to must have
 moved without her.

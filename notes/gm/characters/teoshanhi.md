@@ -7,14 +7,30 @@ alone. Sheet: `notes/player-owned/teoshanhi.md`.
 
 ## VOICE
 
-Not yet established — she hasn't spoken in play. Fill this in from the first
-session, verbatim, and don't invent samples before then.
+Verbatim, from session 1. All of it said to Huvv on the concourse.
 
-What is already known about the shape of it, from session zero: **she gives
-people facts, not arguments.** Her intervention in the diagnostic was three
-words on a piece of paper — "he's lying" — with no explanation attached and no
-attempt to steer what the woman did with it. Expect terseness where another
-character would justify.
+- "I'm not sure there's any way my report would be good, given the nature."
+- "Your supplier was fine. Gave every package they said. It's your man Teren."
+- "I made a mistake trying to be thorough. Broke your lock. Here's the new keys."
+- "Same as anyone might: For the money."
+- "Nine hundred and forty."
+
+**The shape of it.** She front-loads the finding and delivers the apology as a
+separate flat item afterwards, in that order, without softening either. No
+"I'm sorry to have to tell you." No preamble. When she gives a motive she gives
+it as arithmetic — *same as anyone might* — and attaches no recommendation.
+
+**Can't say:** an advocacy. She will not tell you what to do with what she has
+given you, and she will not argue with what you decide. She also cannot dress a
+finding up: asked for the worst number in the story, she says the number.
+
+**Inner monologue** (narrated by the player, not heard by anyone — she has no
+telepathy until 2nd level):
+
+- "I got the job because of the parts that aren't flattering. I still wonder if I'd prefer they didn't know."
+
+That register — dry, self-indicting, one beat too honest — is what will start
+leaking once the dedication lands. See the ruling in `notes/gm/STATE.md`.
 
 ## INTENTION
 
@@ -59,7 +75,18 @@ character would justify.
 
 ## POSITIONS
 
-None yet — nothing has happened in play.
+**Session 1, the concourse.** Told Huvv the whole truth unprompted and against
+her own interest — that she broke the lock being thorough, and that she went
+through Teren's coat pocket. Then gave Huvv the motive and **did not advocate**,
+and did not argue when Huvv chose to ask Teren herself rather than report him.
+
+That is her INTENTION working exactly as written, and it cost her something the
+first time out: she watched a decision she thought was a mistake and let it be
+someone else's.
+
+**Left unanswered:** Huvv asked her to come back. Not for work. *"You could come
+and eat."* Shan said nothing. **This is the campaign's central tension arriving
+in session 1 — do not resolve it for her.**
 
 Her one historical position, which she took before the campaign starts and has
 never withdrawn: **she was told to stop working the case and she kept working

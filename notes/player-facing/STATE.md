@@ -107,13 +107,28 @@ between Shan's word and a document that clears the supplier and names the room.
 - **Shan's application to Eyeswide is in**, and has been for a while. It will be
   decided by Denvara Oash.
 
-## Open, as of session 1, 0330
+## Where things stand at the end of session 1
 
-- **The Huvv job.** Shan knows who is taking the stock. She has no document.
-- **Registration ML-4471-K** — municipal-pattern rental flatbed, livery
-  half-scraped. Not looked up yet.
-- **Teren spooked** at 0247 and aborted, leaving two of six crates unloaded.
-- **Huvv's service door lock is broken**, with four millimetres of Shan's pick
-  sheared off in the keyway. Huvv's key will not turn on it in about five hours.
-- **Shan's infiltrator's toolkit is broken.** 3 credits for replacement picks;
-  she has 19.
+Roughly 0910, the morning after the stakeout.
+
+- **The Huvv job is finished.** The supplier, Rennick, was innocent and billed
+  honestly. Teren, the night manager, has been taking about a fifth of each
+  delivery out the service door for six weeks to service a **940-credit debt**
+  to a lender two levels down. Next payment due in nine days.
+- **Huvv knows all of it**, including that Shan broke her lock and went through
+  Teren's coat. She has the manifest. She fitted the new key herself.
+- **Huvv is going to ask Teren tonight** rather than report him. Shan did not
+  argue.
+- **Shan has not been paid anything further.** Huvv couldn't. She cooked
+  instead.
+- **Huvv asked Shan to come back. Not for work.** Shan didn't answer.
+- **14 credits.** Cost of living is 10/week Comfortable. Toolkit repaired.
+- **Shan has been awake for over twenty-four hours.**
+
+## The next thing
+
+**The Eyeswide Agency approved her application.** Ring Three office, **0900, two
+days from now.** Bring something to write with. From D. Oash, Senior Partner:
+
+> "I've read your file. All of it, including the parts that aren't flattering.
+> It's the parts that aren't flattering that got you the interview." 

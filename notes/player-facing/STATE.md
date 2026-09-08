@@ -107,28 +107,65 @@ between Shan's word and a document that clears the supplier and names the room.
 - **Shan's application to Eyeswide is in**, and has been for a while. It will be
   decided by Denvara Oash.
 
-## Where things stand at the end of session 1
+## Where things stand — session 2, night before the meeting
 
-Roughly 0910, the morning after the stakeout.
+**2310, the evening before the Eyeswide meeting.**
+
+### Carried over from session 1
 
 - **The Huvv job is finished.** The supplier, Rennick, was innocent and billed
   honestly. Teren, the night manager, has been taking about a fifth of each
   delivery out the service door for six weeks to service a **940-credit debt**
-  to a lender two levels down. Next payment due in nine days.
+  to a lender two levels down. Next payment due in **seven days** now.
 - **Huvv knows all of it**, including that Shan broke her lock and went through
-  Teren's coat. She has the manifest. She fitted the new key herself.
-- **Huvv is going to ask Teren tonight** rather than report him. Shan did not
-  argue.
-- **Shan has not been paid anything further.** Huvv couldn't. She cooked
-  instead.
+  Teren's coat. She said she'd ask Teren herself, that night. **Shan has not
+  been back and does not know how that went.**
 - **Huvv asked Shan to come back. Not for work.** Shan didn't answer.
-- **14 credits.** Cost of living is 10/week Comfortable. Toolkit repaired.
-- **Shan has been awake for over twenty-four hours.**
+- **14 credits.** Cost of living is 10/week Comfortable.
+
+### Home, and Pell
+
+- Shan lives nine levels down and two rings inward from Huvv's concourse. One
+  room and a partition. Pell is there more nights than not.
+- **Pell knows about Eyeswide and is delighted.** A wage, a desk, people who
+  answer the comm. **Pell has not asked why she applied.**
+- Pell's Ring Seven job "always runs over."
+
+### What she now knows about Denvara Oash
+
+From the public licence roll at the Bonding Office:
+
+- **Nineteen years' licence. Agency of record: Eyeswide, continuously, never
+  amended. No disciplinary entries. No bond claims.**
+- **46** licences have listed Eyeswide as agency of record in the last six
+  years. **31** list it now. Nine amended away, **six lapsed.** The ones that
+  ended mostly ended **between nine and twenty months in.**
+- **Oash signed the sponsoring-principal line on all 46.** Nobody else at that
+  firm has signed one in six years.
+
+From Vey Torrance, retired Station Security detective, at the Loading Gate:
+
+- The **Aldo Sarn** case, four years ago. Oash, working for the carrier's
+  insurer, asked permission to sit with the widow and waited for it. Came out
+  with three true things Security didn't have and handed them over for nothing.
+  Case closed in a week.
+- Eleven months later Vey found Sarn had been skimming about forty credits a
+  night — the reason he was standing where he was standing. She pulled Eyeswide's
+  transcript and read it line by line. **Not one false word in it.** Oash had
+  never said Sarn was clean and never said that was everything.
+- Vey's verdict: *"She's the most honest person I've ever met and I'd rather she
+  was on my side of the tape."*
+
+### The thing Vey said that Shan didn't ask for
+
+> "Not that they binned you. Sure, they binned you. It's that binning you was
+> *all* they did."
+
+No charge sheet. No conduct finding. No licence hold. A PI ticket inside four
+months, for a detective who defied a direct order and kept going. **Vey drew no
+conclusion from it.**
 
 ## The next thing
 
-**The Eyeswide Agency approved her application.** Ring Three office, **0900, two
-days from now.** Bring something to write with. From D. Oash, Senior Partner:
-
-> "I've read your file. All of it, including the parts that aren't flattering.
-> It's the parts that aren't flattering that got you the interview." 
+**The Eyeswide Agency. Ring Three office, 0900, tomorrow morning.** Bring
+something to write with. D. Oash, Senior Partner.

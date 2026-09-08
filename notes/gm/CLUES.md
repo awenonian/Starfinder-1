@@ -66,6 +66,8 @@ thing.
 | Oash steers her assignments. Consistently, and away from one specific direction | Oash's behaviour over several sessions | **core** | undelivered |
 | Every evasion Oash makes is a true statement. A player who goes back over what she actually *said* finds none of it was a lie and all of it was a choice about what to mention | Oash's dialogue, retrospectively | no | undelivered |
 | Meridian's own accounts show what they paid Eyeswide and for what | Meridian's filings | no | undelivered |
+| **The Sarn story.** An independent, admiring, first-hand account of Oash withholding the one thing that mattered while saying nothing untrue — from a retired detective who went back and checked the transcript line by line | Vey Torrance, the Loading Gate | no | **delivered, session 2** — before Shan ever met Oash |
+| **Oash signs the sponsoring-principal line on every Eyeswide licence application.** All 46 in six years. Nobody else at that firm has signed one. Intake is hers alone, and so is who gets pointed where | Bonding Office licence roll, public | no | **delivered, session 2** |
 
 ### E. Why Keshvet folded, and why Ghesh did
 
@@ -76,6 +78,7 @@ thing.
 | **Keshvet will say it if asked directly.** Not gated behind a roll. They won't volunteer it, because saying it sounds like an excuse and they've decided they're not entitled to one | Keshvet | no | undelivered |
 | Ghesh's sister's care is administered through a Kray charitable programme | Anywhere but Ghesh. **He will never say it** | no | undelivered |
 | Ghesh's file: no unexplained money, ever. He was not bought | Station Security records | no | undelivered |
+| **Shan's own dismissal was conspicuously gentle.** No charge sheet, no conduct finding, no licence hold, PI ticket inside four months — for a detective who defied a direct order and kept going. People get destroyed for less | Anyone who worked the force and reads paperwork. Delivered by Vey Torrance | no | **delivered, session 2** |
 
 ---
 
@@ -121,13 +124,17 @@ Spend when a scene needs something; carry the unspent forward.
 - One of the four hundred came back. Eighteen months ago, on her own money, and
   found her flat re-let and her name on a voting roll. She went to Station
   Security. The intake officer ticked "left voluntarily."
-- Eyeswide's psychic training washes out about a third of intakes. It is
-  genuinely difficult and Oash is genuinely good at teaching it.
 - The pahtra community on the station runs a mutual-aid fund. Ifset administers
   part of it. It has never been touched by any of this, and it is the one place
   in the station where somebody would notice a missing person.
 - Ring Seven's structural problems are real. Pell is right about the welds. If
   the blocks are condemned it will be for true reasons, arrived at corruptly.
+
+**Spent in session 2:** the Eyeswide washout rate, delivered as public
+arithmetic rather than gossip — 46 licences have listed Eyeswide as agency of
+record in six years, 31 still do, and the ones that ended mostly ended between
+nine and twenty months in. Shan counted it herself off the Bonding Office
+terminal. **The training is genuinely hard and she can genuinely fail out.**
 
 ---
 

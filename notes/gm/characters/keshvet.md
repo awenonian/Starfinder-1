@@ -53,5 +53,21 @@ and has never defended it.
   immigration status of several others who left the same hive. **This is what was
   threatened.** (Player does not know.)
 - Still a lieutenant. Not promoted since. Not demoted either.
+- **Keshvet made Shan's dismissal clean.** Established from the other end in
+  session 2, by Vey Torrance, who noticed the absence rather than the act: no
+  charge sheet, no conduct finding, no licence hold, and a PI ticket inside four
+  months. Two things are true at once and both matter.
+  - **The instruction from above was to remove her without making a case of it.**
+    A conduct hearing means a record, testimony, and the old case written down
+    somewhere permanent. Kray's people never want anything actionable to exist;
+    quiet was the requirement, not mercy.
+  - **Keshvet took every inch of the latitude that gave them.** Chose the
+    cleanest removal available, ensured there was no finding, and did not object
+    when the licence went through. It is the one thing Keshvet did for her, it
+    cost them something to do, and **they have never mentioned it and never
+    will** — saying it out loud would sound like a defence, and Keshvet has
+    decided they are not allowed one.
+  - If Shan ever puts it to them directly, Keshvet confirms it flatly, in one
+    sentence, and refuses to be thanked. (Player does not know any of this.)
 - **Do not spend this character early.** Keshvet is the most useful NPC in the
   opening structure and works best once Shan has something to trade.

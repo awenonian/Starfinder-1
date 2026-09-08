@@ -167,3 +167,146 @@ telepathy yet:
 > I'd prefer they didn't know."
 
 **Session 1 ends here**, 0910ish, at the counter, with the question hanging.
+
+---
+
+<!-- Session 2 begins here. -->
+
+## Session 2
+
+Picks up immediately after session 1, same morning. Player's own framing for
+what Shan does with the two days before the Eyeswide meeting:
+
+> "14 credits and badly in need of rest? At least a chunk of those two days
+> will be sleeping. But Shanhi can't keep still for all that long. When she
+> wakes up, she'll need to do *something*. The acceptance message have a name,
+> and she knows how to work the streets. She'll want to see what she's in for."
+
+**Home, established in play.** Nine levels down and two rings inward from
+Huvv's concourse. One room and a partition. The door light strip has flickered
+in the same pattern since spring. Pell keeps their own hours and is there more
+nights than not; boots lined up by the door, work bag buckled beside them.
+
+**Pell's note**, left at 0530, on the back of a supply requisition:
+
+> "0530. You weren't here again. There's food. Back around 1800, unless the
+> Ring Seven job runs over, and it always runs over. — P."
+
+**1806, the flat.** Shan slept about eight hours and woke to Pell cooking.
+Pell counted the three nights she was out. Then Shan told them about Eyeswide,
+and Pell was *pleased* — put the pan down, turned round properly, whiskers
+forward:
+
+> "They took you. *Eyeswide* took you."
+> "That's a *wage*. That's a wage and a desk and people who answer the comm
+> when you call them."
+> "Ring Three. They're on Ring Three, aren't they. God. You'll hate the carpet."
+
+**Pell did not ask why she applied.**
+
+**The player's stated target.** Not Eyeswide's reputation — she's been applying
+for a while and already has that. **Oash specifically.** Two vectors chosen:
+
+> "Would the clerks have paperwork about previous hires? Or maybe ex cops might
+> know a case he worked. Not sure how much overlap between the police and
+> Eyeswide there is, but as a private eye, I know that crime scenes are useful
+> for info, so it wouldn't be surprising if they had been at one."
+
+### The Bonding Office, next morning, 0920 — no roll
+
+Anyone who takes money to act on another's behalf carries a surety bond, so the
+licence roll is public: name, licence number and class, date of issue, **agency
+of record**, and every disciplinary entry or bond claim. Employment files and
+applications are not public. Shan has filed her own bond paperwork four times
+and knows the terminal without a queue. **No roll — competent professional,
+unpressured, public record.**
+
+- **OASH, DENVARA.** Class II, full practice. Issued **nineteen years ago**.
+  Agency of record: Eyeswide Agency, continuously, **no amendments, not once**.
+  **No disciplinary entries. No bond claims.**
+- Shan's own sheet carries a caution, entry 3211, for serving a summons on the
+  wrong Tavik.
+- **The agency block.** 46 licences have listed Eyeswide as agency of record at
+  some point in the last six years. **31 list it now.** Of the 15 that don't:
+  9 amended to another agency or sole practice, **6 lapsed entirely.** The ones
+  that ended mostly ended **between nine and twenty months in.** Shan went
+  through the dates twice.
+- Two bond claims against Eyeswide investigators in a decade. Both settled
+  without a finding. Neither Oash's.
+- **On the sponsoring-principal line of all 46 applications: D. Oash.** Nobody
+  else at that firm has signed one in six years.
+
+### The Loading Gate, 2140 — Gather Information
+
+The unmarked bar under the old Fourth Precinct. **Vey Torrance**, human, retired
+Station Security detective, twenty-six years, pensioned out three years ago with
+a spine that quit before she did. Walks with a stick, sits with her back to the
+wall. Knew Shan on the force; was not her partner and was not her friend.
+
+**Stakes named before the dice:** get it right and she leaves with a picture of
+Oash and only her pride charged. Get it wrong and she pays in a currency she
+didn't offer — and badly enough, Ring Three hears she was asking before she sits
+down.
+
+**Streetwise → Gather Information, Society +5, DC 17. Rolled 13, total 18 —
+success.**
+
+**The Sarn story**, verbatim in the important places:
+
+Four years ago a cargo transfer supervisor, **Aldo Sarn**, went into the gap
+during a coupling at a Ring Four berth. Genuinely an accident; Security knew by
+lunchtime. The carrier's insurer sent Eyeswide anyway, "because insurers don't
+believe you." Eyeswide sent Oash.
+
+> "Little lashunta, good coat, standing outside the tape with her hands where I
+> could see them without being asked, which nobody does. Asks if she can sit
+> with the widow. I say that's not my call. She says no, it's exactly your
+> call, and she waits until I make it."
+
+Two hours with the widow. Came out and gave Security three things:
+
+1. The berth had run the coupling manual for eleven days — the interlock kept
+   faulting.
+2. The fault log was being cleared nightly by a man not authorised to clear it.
+3. Sarn had been doing the walk-out himself instead of sending the junior,
+   every night for a month.
+
+> "All true. All checked out. All of it *ours* — and she'd had it in two hours
+> out of a widow and handed it over across the tape for nothing. Cleared it in
+> a week. Best week I had that year."
+
+Eleven months later, on an unrelated matter, Vey turned up that Sarn had been
+walking **about forty credits a night** out of that berth in his own coat
+pockets — which is why he did the walk-out himself, which is why he was standing
+where he was standing. She pulled the Eyeswide transcript; they handed it over
+the counter without a form.
+
+> "There is not one false word in it. Not one. She never said he was clean. She
+> never said that was everything. I went through it line by line looking for the
+> place she lied to me and it isn't there, because she didn't, because she never
+> does."
+>
+> "The insurer paid out. We closed it accidental. It *was* accidental. Everybody
+> in that story was right. I've thought about it more than I'd like."
+>
+> "She's the most honest person I've ever met and I'd rather she was on my side
+> of the tape."
+
+**And then, unprompted, in exactly the same flat tone** — the thing Shan did not
+come for:
+
+> "You know what always bothered me about your business? Not that they binned
+> you. Sure, they binned you. It's that binning you was *all* they did."
+>
+> "No charge sheet. No conduct finding. No licence hold — you had a PI ticket
+> inside four months, I remember, because Halloran said it out loud in this room
+> and thought it was funny. I've watched them destroy people over a lot less
+> than what you did. Somebody wanted you out of the building. Nobody wanted you
+> *ruined*."
+
+Vey drew no conclusion from it and moved on.
+
+**The tax on the evening**, and the whole of it — a man two stools down, to
+nobody: *"She never was on our side of the tape,"* and somebody laughed.
+
+**2310.** Ring Three, 0900, ten hours out.

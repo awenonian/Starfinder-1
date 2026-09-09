@@ -7,7 +7,7 @@ underneath, the clocks, the rulings) and `notes/gm/CLUES.md` before running.
 
 ## Where we left off
 
-Shan is standing at Huvv's counter at about 0910, having been awake for over
+Shanhi is standing at Huvv's counter at about 0910, having been awake for over
 twenty-four hours, having just been fed by a woman she burgled, with an
 unanswered invitation hanging in the air. **The Eyeswide meeting is 0900, two
 days out, Ring Three office.**
@@ -29,10 +29,10 @@ days out, Ring Three office.**
 Cut to the meeting if the player wants. But the intervening days hold real
 things, all of them optional and none of them urgent:
 
-- **Pell.** Shan is about to take an agency job. Pell will be genuinely pleased
+- **Pell.** Shanhi is about to take an agency job. Pell will be genuinely pleased
   — until they learn why. That conversation is available now and it is the
   campaign's best pressure point. **Do not have Pell volunteer the Ring Seven
-  material.** It comes from Shan asking about their day and listening.
+  material.** It comes from Shanhi asking about their day and listening.
 - **Huvv's invitation.** Answering it, or not, or going back and finding out
   what happened with Teren.
 - **Sleep.** She genuinely needs it and hasn't had any.
@@ -83,9 +83,9 @@ Oduya's daughter ever since, through an anonymous transfer clerk, and has never
 told the daughter, or her son, or anyone but Odett.
 
 - **Odett knows,** because you cannot live in a house and not know. Talia asked
-  her not to say. **Odett will lie to Shan to keep that** — flatly, competently,
+  her not to say. **Odett will lie to Shanhi to keep that** — flatly, competently,
   and about the wrong thing. She is one of the very few people in this campaign
-  who lies at all, and Shan has **Lie to Me**. Let the feat catch her. What it
+  who lies at all, and Shanhi has **Lie to Me**. Let the feat catch her. What it
   catches is loyalty, not theft.
 - **Talia will not explain herself.** Not out of shame — she settled this with
   herself decades ago and considers it nobody's business. Asked directly and
@@ -101,10 +101,10 @@ failing for two years, he has two children, and *my mother is being defrauded*
 is a bearable thought where *I want her money* is not. He has never articulated
 the second one and would be genuinely horrified by it.
 
-**Why this is the assignment.** Oash wants to watch how Shan moves, and this
+**Why this is the assignment.** Oash wants to watch how Shanhi moves, and this
 case has no version where the paperwork answers it:
 
-- Shan's method is to hand over the fact and refuse to advocate. Here the fact —
+- Shanhi's method is to hand over the fact and refuse to advocate. Here the fact —
   *the money is leaving, on schedule, in that amount* — is **true, complete, and
   hands a woman's autonomy to her son.** The person who gets to choose is not the
   person it happens to.

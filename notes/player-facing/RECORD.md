@@ -16,12 +16,12 @@ more than *declined to answer*.
 ## Session 1
 
 **The stakeout.** Night three on a mid-level concourse, watching Huvv's noodle
-counter. Huvv (skittermander, six arms, hand-painted sign) hired Shan for 40
+counter. Huvv (skittermander, six arms, hand-painted sign) hired Shanhi for 40
 credits to find out whether her supplier was shorting her deliveries. She
 apologised for the amount twice.
 
 0247. The service door opened from the inside. Teren — Huvv's night manager,
-who Shan had watched close up properly for three nights running — propped it
+who Shanhi had watched close up properly for three nights running — propped it
 with a folded ration carton he clearly keeps for the purpose and began carrying
 sealed crates out to a flatbed cargo hauler at the end of the concourse. The
 crates carried the supplier's own markings.
@@ -29,7 +29,7 @@ crates carried the supplier's own markings.
 Forty seconds a crate. Six crates. He set down four. He did not look around
 once. There was someone in the cab who never got out and never helped.
 
-Shan established: registration **ML-4471-K**, municipal-pattern flatbed, rental
+Shanhi established: registration **ML-4471-K**, municipal-pattern flatbed, rental
 livery half scraped off the door.
 
 Player, on whether to stay put: *"Huvv isn't paying me enough to expect more
@@ -46,12 +46,12 @@ Three strides into the light-gap, the dead pharmacy's broken motion plate
 clicked. It has been broken for years. Nobody has fixed it.
 
 Teren stopped. Stood still a long time, looking. Did not see her. Then went
-inside, came out with nothing, said something to the cab that Shan was too far
+inside, came out with nothing, said something to the cab that Shanhi was too far
 away to hear, and the hauler left with four crates instead of six.
 
 The microphone never got placed.
 
-**The break-in that wasn't.** Two crates never left the building. Shan went for
+**The break-in that wasn't.** Two crates never left the building. Shanhi went for
 the service door with the infiltrator's toolkit, reasoning that a locked door is
 what the toolkit is for.
 
@@ -59,7 +59,7 @@ Player, on the trade: *"Sure, they're behind a locked door, but, that's what an
 infiltrators toolkit is for. Maybe we can get one part of this mystery."*
 
 **Rules correction, player-caught:** Second Skin's Strength threshold is +0 and
-Shan's Strength is +0, so she meets it and takes **no armour check penalty**.
+Shanhi's Strength is +0, so she meets it and takes **no armour check penalty**.
 All four Dex skills are +7, not +6. Sheet fixed. The earlier Stealth check would
 have been 11 against DC 16 — still a failure.
 
@@ -77,7 +77,7 @@ steel in Huvv's service door lock and Huvv's key will not turn on it.
 before it works again. And Teren — who aborted last night because he heard a
 noise — now has a visible break-in at the premises to point at.
 
-**The lock, again.** Shan chose to fit the replacement herself rather than pay a
+**The lock, again.** Shanhi chose to fit the replacement herself rather than pay a
 locksmith — 5 credits against 8, which the player noted was "like 15% of my net
 worth." Down to **14 credits**.
 
@@ -111,7 +111,7 @@ after tomorrow.
 
 **0834** — Huvv arrives.
 
-**The report.** Shan got up with a groan and gave it straight, in this order:
+**The report.** Shanhi got up with a groan and gave it straight, in this order:
 
 > "I'm not sure there's any way my report would be good, given the nature."
 
@@ -133,7 +133,7 @@ anything else to ask about.
 Huvv's supplier is named **Rennick**. Huvv has been short with him on the comm
 for six weeks while he apologised to her.
 
-**The why.** Shan shrugged and gave it flat:
+**The why.** Shanhi shrugged and gave it flat:
 
 > "Same as anyone might: For the money. I didn't see any money change hands
 > last night, but he owes a large sum to a lender. Found a book in his pocket.
@@ -146,11 +146,11 @@ coat. Huvv did not pick up on that second part.
 credits a week — Teren owes close to two years of simply existing.
 
 **Huvv decided to ask him herself.** Tonight. Not report, not dismiss first.
-Shan did not argue with her.
+Shanhi did not argue with her.
 
-Huvv couldn't pay Shan anything further and fed her instead.
+Huvv couldn't pay Shanhi anything further and fed her instead.
 
-**The noodles.** Shan took the meal. Ate standing at the counter because the
+**The noodles.** Shanhi took the meal. Ate standing at the counter because the
 stools weren't down. Huvv served the morning crowd around her, bright and loud
 with every customer and doing something else with her face for a second and a
 half in between.
@@ -160,7 +160,7 @@ Huvv, when the bowl went down:
 > "You'll come back. Not for work. I'm not — I can't afford you, I know that.
 > Just. You could come and eat."
 
-Shan didn't answer. The player's monologue, unspoken and unheard — she has no
+Shanhi didn't answer. The player's monologue, unspoken and unheard — she has no
 telepathy yet:
 
 > "I got the job because of the parts that aren't flattering. I still wonder if
@@ -175,7 +175,7 @@ telepathy yet:
 ## Session 2
 
 Picks up immediately after session 1, same morning. Player's own framing for
-what Shan does with the two days before the Eyeswide meeting:
+what Shanhi does with the two days before the Eyeswide meeting:
 
 > "14 credits and badly in need of rest? At least a chunk of those two days
 > will be sleeping. But Shanhi can't keep still for all that long. When she
@@ -192,8 +192,8 @@ nights than not; boots lined up by the door, work bag buckled beside them.
 > "0530. You weren't here again. There's food. Back around 1800, unless the
 > Ring Seven job runs over, and it always runs over. — P."
 
-**1806, the flat.** Shan slept about eight hours and woke to Pell cooking.
-Pell counted the three nights she was out. Then Shan told them about Eyeswide,
+**1806, the flat.** Shanhi slept about eight hours and woke to Pell cooking.
+Pell counted the three nights she was out. Then Shanhi told them about Eyeswide,
 and Pell was *pleased* — put the pan down, turned round properly, whiskers
 forward:
 
@@ -217,19 +217,19 @@ for a while and already has that. **Oash specifically.** Two vectors chosen:
 Anyone who takes money to act on another's behalf carries a surety bond, so the
 licence roll is public: name, licence number and class, date of issue, **agency
 of record**, and every disciplinary entry or bond claim. Employment files and
-applications are not public. Shan has filed her own bond paperwork four times
+applications are not public. Shanhi has filed her own bond paperwork four times
 and knows the terminal without a queue. **No roll — competent professional,
 unpressured, public record.**
 
 - **OASH, DENVARA.** Class II, full practice. Issued **nineteen years ago**.
   Agency of record: Eyeswide Agency, continuously, **no amendments, not once**.
   **No disciplinary entries. No bond claims.**
-- Shan's own sheet carries a caution, entry 3211, for serving a summons on the
+- Shanhi's own sheet carries a caution, entry 3211, for serving a summons on the
   wrong Tavik.
 - **The agency block.** 46 licences have listed Eyeswide as agency of record at
   some point in the last six years. **31 list it now.** Of the 15 that don't:
   9 amended to another agency or sole practice, **6 lapsed entirely.** The ones
-  that ended mostly ended **between nine and twenty months in.** Shan went
+  that ended mostly ended **between nine and twenty months in.** Shanhi went
   through the dates twice.
 - Two bond claims against Eyeswide investigators in a decade. Both settled
   without a finding. Neither Oash's.
@@ -241,7 +241,7 @@ unpressured, public record.**
 The unmarked bar under the old Fourth Precinct. **Vey Torrance**, human, retired
 Station Security detective, twenty-six years, pensioned out three years ago with
 a spine that quit before she did. Walks with a stick, sits with her back to the
-wall. Knew Shan on the force; was not her partner and was not her friend.
+wall. Knew Shanhi on the force; was not her partner and was not her friend.
 
 **Stakes named before the dice:** get it right and she leaves with a picture of
 Oash and only her pride charged. Get it wrong and she pays in a currency she
@@ -292,7 +292,7 @@ the counter without a form.
 > "She's the most honest person I've ever met and I'd rather she was on my side
 > of the tape."
 
-**And then, unprompted, in exactly the same flat tone** — the thing Shan did not
+**And then, unprompted, in exactly the same flat tone** — the thing Shanhi did not
 come for:
 
 > "You know what always bothered me about your business? Not that they binned
@@ -318,7 +318,7 @@ letters, no logo. Warm light, repaired wood, a receptionist who said "Teoshanhi"
 without looking at a screen. Oash came out herself, which is not how it works
 anywhere else. Two chairs facing each other, no desk between.
 
-**Shan tried a countermeasure**, player's own idea from a station rumour — mental
+**Shanhi tried a countermeasure**, player's own idea from a station rumour — mental
 arithmetic (sevens) to mask her thoughts, started in the lift and kept going.
 
 Oash opened by saying she'd read the file, all of it, including the board
@@ -330,7 +330,7 @@ transcript and the four earlier applications, and:
 > consent to it either, and I'd like you to have been on the other end of it
 > once, recently, while it still stings."
 
-**Shan's question**, and the player noted it came out more like an accusation
+**Shanhi's question**, and the player noted it came out more like an accusation
 than intended: *"Why did the ugly parts get me the job."*
 
 Oash's answer, verbatim in the important places:
@@ -365,7 +365,7 @@ undone:
 > trying to hide, it's the most legible thing you've done since you walked
 > through that door."
 
-**Shan pushed back**, and caught her:
+**Shanhi pushed back**, and caught her:
 
 > "I don't care if you know I'm doing it, I care if you know what's under it.
 > There's an information disparity here, and I'm not happy about that. And I
@@ -387,7 +387,7 @@ you filed it next door."*
 > do that... I did it this way because it is the only version where your anger
 > has anywhere to go."
 
-**The grey wallet.** Oash handed over everything Eyeswide gathered on Shan —
+**The grey wallet.** Oash handed over everything Eyeswide gathered on Shanhi —
 service record, board transcript, the four earlier applications, standing checks.
 Hers to keep. And named the boundary out loud:
 
@@ -421,7 +421,7 @@ that, an actual reading — once a day, close, top layer only.
 > wrote that and I enforce it, and I have put two people out of this building
 > for it."
 
-**Oracle consulted and obeyed:** did Oash read Shan's mind during the interview?
+**Oracle consulted and obeyed:** did Oash read Shanhi's mind during the interview?
 *Unlikely, chaos 4 — NO.* She didn't.
 
 **Terms.** Forty credits a week, paid in arrears on the seventh day, plus
@@ -460,7 +460,7 @@ Sebwe is a remittance house; a **pooled client account** shows the transfer
 happened and not who received it. Talia's pension is 94 credits and change; the
 flat isn't on the statements, so she owns it.
 
-Shan's own read, unprompted: bleeding escalates, bleeding gets sloppy, bleeding
+Shanhi's own read, unprompted: bleeding escalates, bleeding gets sloppy, bleeding
 is an appetite written down month by month. **This looks like a standing order.**
 
 ### Vandermeer Fittings, Ring Three Level Nine, 1043
@@ -468,12 +468,12 @@ is an appetite written down month by month. **This looks like a standing order.*
 **Oracle: SCENE INTERRUPTED (4 vs chaos 4). Random event — "something hidden
 becomes visible," read as extort / history.**
 
-Shan walked in on a handover. A heavyset human man in a yard inspector's
+Shanhi walked in on a handover. A heavyset human man in a yard inspector's
 overtunic — clip readable at walking distance, **CANTRELL YARD 6 — GOODS
 INSPECTION** — at the counter with no basket, looking at nothing. Corin came out
 with a **cash box** and counted out physical credits with a pay-plate terminal
 eighteen inches away. The man pocketed it without counting, said six or seven
-words Shan couldn't hear, and walked out past her. No goods, no chit, no receipt,
+words Shanhi couldn't hear, and walked out past her. No goods, no chit, no receipt,
 no thanks.
 
 **Player, declining the bait:** *"I'm not going to be distracted by that guy. He
@@ -510,7 +510,7 @@ the request.
 > try not to create a pattern. So I just want to nail down when it started,
 > because there's probably an event."
 
-Corin said *"Yes. Certain."* Shan said nothing. He explained his certainty out
+Corin said *"Yes. Certain."* Shanhi said nothing. He explained his certainty out
 loud — *"it's the top entry, it's the earliest one there, so that's when it—"* —
 and heard it collapse mid-sentence. *"...that's when the* statement *starts."*
 He went to the terminal and tried three ways to go back further. The third made
@@ -531,7 +531,7 @@ paper. Boxes under the bed, boxes on the wardrobe, a filing crate in the hall sh
 uses as a step. Corin's father died eleven years ago and his tax records are
 still in there. *"She keeps everything."*
 
-**What Shan found in the file herself**, no roll — a core document detail, freely
+**What Shanhi found in the file herself**, no roll — a core document detail, freely
 available to anyone who looks. Every transfer line carries **STO/04 —
 CONTINUING**. A standing order's *first* execution prints **NEW MANDATE** with
 the tag underlined, because the bank wants the holder to see a new commitment.
@@ -547,7 +547,7 @@ CANVASSERS, NO CHARITY, NO EXCEPTIONS.**
 
 Odett Varn answered — tea-towel, sleeves up, door a third open, hand on the edge.
 
-Shan's approach, the player's words: *"Mrs. Vandermeer? My agency sent me about a
+Shanhi's approach, the player's words: *"Mrs. Vandermeer? My agency sent me about a
 discrepancy in your financials. I'm sure it's nothing, but we just want to make
 sure. May I come in?"* True in every word and not the truth in any of them.
 
@@ -562,18 +562,18 @@ Critical failure: that, plus it gets reported properly.
 
 **Rolled 7, total 12, against DC 16 — failure.**
 
-**What Shan got anyway, for free, because it's a face and she's a detective:** at
+**What Shanhi got anyway, for free, because it's a face and she's a detective:** at
 the words *a discrepancy in your financials*, Odett showed no puzzlement. No
 half-second of *what discrepancy.* **Recognition**, immediately suppressed.
 
-> "Which agency would that be." *(and again, identically, after Shan's non-answer)*
+> "Which agency would that be." *(and again, identically, after Shanhi's non-answer)*
 > "I'm not being rude. But I don't let people in about her money. Not the bank,
 > not the terrace, not anybody. If there's a discrepancy you can put it in
 > writing to her and she'll read it, because she reads everything."
 
 Then, from a lit room further in — Talia, unhurried: *"Who is it, Odett?"*
 
-And Odett, eyes still on Shan's, without a flicker: **"Nobody, love. Terrace
+And Odett, eyes still on Shanhi's, without a flicker: **"Nobody, love. Terrace
 association."**
 
 The door started closing. Through the last of the gap:
@@ -581,7 +581,7 @@ The door started closing. Through the last of the gap:
 > "The terrace association doesn't knock, Odett."
 
 **The knock.** Player's call, and they flagged it themselves as possibly the
-stupidest or smartest idea Shan has had:
+stupidest or smartest idea Shanhi has had:
 
 > "This may be the stupidest idea Shanhi has ever had, or the smartest one. But
 > I think Talia may be being lied to, and this might introduce a sliver of doubt.
@@ -600,6 +600,126 @@ She said *whoever you are.* She did not say *the terrace association.* The knock
 did its job: it handed Talia one fact, and Talia used it on Odett about four
 seconds later without bothering to lower her voice.
 
-**1127.** Shan on the walkway with a closed door, a folder, the grey wallet, a
+**1127.** Shanhi on the walkway with a closed door, a folder, the grey wallet, a
 notebook, and an instruction from a seventy-one-year-old woman to put it in
 writing.
+
+**Table note, mid-session 2:** the player asked to be called **Shanhi** rather
+than Shan from here on. The notes were renamed throughout; earlier session-1
+quotes were caught by the same pass.
+
+### The civic records hall, Ring Three, 1210–1541
+
+Two credits for a half-day terminal session, paid out of pocket — expenses have
+to be approved *before*, and she'd just been told so. **Twelve credits.**
+
+Player's stated aim: *"I'm not getting good vibes about Odett. Let's go look
+into her. What can I find, license, when she started work if I can find it.
+Maybe if I can search news articles I can look for anything mentioning her name
+between 18 and, say, 36 months ago."*
+
+**No roll.** Public registers, a professional reading them, unpressured. The
+difficulty lives in what the facts mean.
+
+**Station Board of Care Practice, public register. VARN, ODETT.** Licence
+CP-2211-0, class **Live-In Care, Grade 2** — personal care and household, **not
+clinical**; she isn't licensed to administer so much as a painkiller. Issued
+**fourteen years ago**. **Findings: none.** No suspension, no conditions, no
+complaint upheld, no complaint made.
+
+Placements of record, with dates:
+
+| Client | Where | Duration | Ended |
+|---|---|---|---|
+| B. Achterberg | Ring Two, L11 | 4 years | *client deceased* |
+| M. & R. Solle | Ring Four, L3 | 2 years 1 month | *transferred to residential* |
+| Hennike Oyo | Ring Two, L8 | 4 years 3 months | *client deceased* |
+| **T. Vandermeer** | **Ring Three, L6** | **3 years 2 months** | **current** |
+
+Two of three finished placements ended with the client dead. Shanhi noted both
+readings herself: that this is a horrible column to look at, and that it is a
+plain description of what live-in elder care is, and that the sinister reading
+arrived unprompted because she went looking for it.
+
+**Probate, public index.** One hit. **Hennike Oyo**, died four years ago, small
+estate, closed inside a quarter. Among the specific bequests:
+
+> *To Odett Varn, two hundred credits, who was kind to me.*
+
+**The feeds.** "Varn" is not rare — shipping agents, a musician, a long-running
+hydroponics allotment dispute on Ring Six. **In the eighteen-to-thirty-six-month
+window: nothing.** Not thin, not ambiguous. Odett Varn does not appear in the
+station feeds at any point in the two years either side of the visible payments.
+Shanhi ran it three ways.
+
+One hit outside the window, four years old — Hennike Oyo's death notice, placed
+by a nephew: *"The family thank Odett Varn for her care."*
+
+**The shape of the archive, noted deliberately:** feeds are name-indexed for
+about the last decade. Before that it is scanned bulletin pages, searchable by
+**publication and date only**. Anything older needs you to walk in already
+knowing roughly *when*.
+
+Searching Vandermeer: Talia appears exactly once, eleven years back, in a
+Cantrell yards long-service list — **T. VANDERMEER, 40 years.** No photograph,
+no story.
+
+**What that leaves:** a hard start date of **three years two months** for Odett
+in that flat, against payments that were already running before the oldest page
+anyone has shown her. **One document older than thirty-eight months puts those
+two numbers in the same room.**
+
+**Player, on the Cantrell name:** *"Cantrell yards... That's not the first time
+I've seen that, and there are no such thing as coincidences."*
+
+### The letter
+
+Checked first: Talia's residency record lists a household comm code but **no
+published key**, so there is no sealed channel — and a household comm unit is
+the one device Odett is guaranteed to be standing next to. She'd said *put it in
+writing*, and she meant paper.
+
+**A sealed-service envelope** from a tribunal stationer — adhesive laminated
+through the flap, voids visibly if lifted — **one credit including slot
+delivery. Eleven credits.** Player's reasoning: *"the kind where you can't break
+the adhesive without doing damage, so it'll be obvious to Talia if Odett read it
+first."*
+
+No agency card; she'd been employed seven hours. It went out on notebook paper
+in her own hand. Verbatim:
+
+> **Mrs. Vandermeer,**
+>
+> I am contacting you about a discrepancy in your finances that I've been asked
+> to look into. You may already know what I'm asking about. If so, there may be
+> little to discuss. But I was tasked to look into it, and so far, what I've
+> learned has made me more concerned that something is up.
+>
+> I work for the Eyeswide Detective Agency. I'm curious if that surprises you or
+> not.
+>
+> If you're willing to discuss more, please contact me.
+>
+> — Teoshanhi
+>
+> *comm 6-0912-44*
+> *The Eyeswide Agency, Ring Three mezzanine*
+
+Post runs once, mornings. It reaches the slot at 6-114 after 0700 tomorrow.
+
+Player, on the risk, before writing it: *"I have an idea of what might be going
+on. Nothing certain, not yet. But I'm not sure it's the kind of idea Oash would
+be happy about."*
+
+### Back at the shop, 1651
+
+Shutter waist-high, sign off, lights still on. Corin behind the counter with a
+stock tablet he wasn't looking at, which he set down face-first. This morning he
+got lighter when he learned who she was; this time the opposite happened, across
+about a second.
+
+> "You're back."
+> "Did you — is there something. Did you speak to her?"
+
+**The cash box is gone from under the counter.** There's a clean rectangle in the
+dust on the shelf where it sat this morning.

@@ -42,6 +42,14 @@ The live safety mechanisms don't depend on this: the player can stop or rewind
 anything at any moment, and the GM checks in before and after a scene that goes
 somewhere heavy.
 
+## What to call her
+
+**Shanhi.** Settled mid-session 2, at the player's request — they had been
+called "Shan" up to that point and said they preferred **Shanhi**. Address the
+character as Shanhi in narration and have NPCs use it. Her full name is
+Teoshanhi. Do not drift back to "Shan"; the earlier record entries that still
+read that way were bulk-renamed and any that survive are typos, not usage.
+
 ## Table commands
 
 - **"stop" or "skip that"** — said out of character at any point. Obeyed
@@ -52,7 +60,7 @@ somewhere heavy.
 
 ## The long shape
 
-**The character.** Teoshanhi — "Shan" — a pahtra operative, born on Absalom
+**The character.** Teoshanhi — "Shanhi" — a pahtra operative, born on Absalom
 Station. Was a police detective and a good one. Was told to stop working a case,
 didn't, was right, couldn't prove it, and was thrown off the force for it. Has
 been a private eye since. Sheet: `notes/player-owned/teoshanhi.md`.
@@ -75,7 +83,7 @@ been a private eye since. Sheet: `notes/player-owned/teoshanhi.md`.
 **On tone specifically.** The comedy is in the register, not the events. Calvin
 playing detective is funny because he is completely sincere and the world is
 completely ordinary. **The characters play it straight — nobody in the fiction
-winks.** The humour lives in the gap between Shan's narration and what is
+winks.** The humour lives in the gap between Shanhi's narration and what is
 actually happening, and it dies the moment an NPC finds her funny.
 
 **On the pahtra material.** The player was clear: Absalom-born, no immigrant
@@ -88,7 +96,7 @@ build a homeland arc.
 **Act one is an investigation** pointed at the Eyeswide Agency and at the case
 that cost her the job.
 
-**Act two is planned and agreed.** The player's own framing: if Shan works out
+**Act two is planned and agreed.** The player's own framing: if Shanhi works out
 that providing proof will not provide justice, the campaign changes into
 something else. The structure has been built so that question has a **real
 answer waiting rather than a twist** — see `notes/gm/STATE.md`. The player's

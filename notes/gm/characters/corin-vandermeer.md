@@ -53,7 +53,7 @@ and he took it eleven days ago.
   touched.
 - **Believes:** that the payments started eighteen months ago, because that is
   where the statement starts. Wrong, and he found out it was wrong in front of
-  Shan and did not follow it anywhere.
+  Shanhi and did not follow it anywhere.
 - **Lies about:** the cash box. If asked about the inspector he will say it was
   a supplier and it will be the first outright untruth he has told her.
 - **Won't say:** what Merrit Kav has on him. See below.
@@ -69,7 +69,7 @@ customers — found the substitution five weeks ago on a routine spot check. He
 did not report it. He came back a week later with a number.
 
 - **150 credits a month, in cash.** First payment three weeks ago. Second
-  payment handed over **in front of Shan**, 1043, session 2 — a cash box, no
+  payment handed over **in front of Shanhi**, 1043, session 2 — a cash box, no
   goods, no chit, no receipt, and a man who pocketed it without counting.
 - **Corin retained Eyeswide eleven days ago** — between the first payment and
   the second. That is why now.

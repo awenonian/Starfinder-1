@@ -1,4 +1,4 @@
-# Teoshanhi — "Shan"
+# Teoshanhi — "Shanhi"
 
 The player character. A pahtra ex-detective who was thrown off the force for
 not dropping a case, and who is trying to get inside the Eyeswide Agency
@@ -85,7 +85,7 @@ first time out: she watched a decision she thought was a mistake and let it be
 someone else's.
 
 **Left unanswered:** Huvv asked her to come back. Not for work. *"You could come
-and eat."* Shan said nothing. **This is the campaign's central tension arriving
+and eat."* Shanhi said nothing. **This is the campaign's central tension arriving
 in session 1 — do not resolve it for her.**
 
 Her one historical position, which she took before the campaign starts and has

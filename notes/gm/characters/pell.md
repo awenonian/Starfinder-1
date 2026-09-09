@@ -1,6 +1,6 @@
 # Pell
 
-Ysoki. Shan's significant other, in the sense that neither of them has said so.
+Ysoki. Shanhi's significant other, in the sense that neither of them has said so.
 Inspects hull integrity for the station's structural authority. Finds the small
 crack before it kills everyone, on a schedule, with a checklist, and then goes
 home — which is the entire argument between them.
@@ -20,9 +20,9 @@ relationship survives on that not being asked.
 
 ## INTENTION
 
-- **What they're for:** the cost. Pell is what Shan is spending, and the only
+- **What they're for:** the cost. Pell is what Shanhi is spending, and the only
   character positioned to make her notice.
-- **What they want:** for Shan to close something. Not to care less — Pell
+- **What they want:** for Shanhi to close something. Not to care less — Pell
   understands caring, it is literally their job. To *finish*, once, and see what
   it feels like.
 - **What they'd never do:** leave dramatically, or issue a deadline. If it
@@ -30,7 +30,7 @@ relationship survives on that not being asked.
 
 ## POSITIONS
 
-Has told Shan repeatedly to let go, slow down, do anything but keep going the
+Has told Shanhi repeatedly to let go, slow down, do anything but keep going the
 way she is going. Has never once made it a condition of anything.
 
 ## Knows, believes, lies
@@ -54,7 +54,7 @@ way she is going. Has never once made it a condition of anything.
 - **Will be genuinely pleased about Eyeswide** — a real agency, a steady wage,
   a change of pace — **until they learn why she's doing it.** Player-specified.
   When that lands, Pell does not shout. Pell stops asking about her work.
-- **How the Ring Seven material reaches Shan:** she asks Pell about their day
+- **How the Ring Seven material reaches Shanhi:** she asks Pell about their day
   and listens. That is the route. **Pell must not volunteer it**, and it must not
-  be shortcut, because getting it requires Shan to do the one thing she
+  be shortcut, because getting it requires Shanhi to do the one thing she
   structurally does not do — stay close to someone long enough to hear them.

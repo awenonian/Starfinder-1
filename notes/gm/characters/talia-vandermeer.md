@@ -30,7 +30,7 @@ it goes where I send it."*
 ## INTENTION
 
 - **What she's for:** the person the fact is about, who is not the person who
-  gets to choose. Shan's whole method — hand over the finding, refuse to
+  gets to choose. Shanhi's whole method — hand over the finding, refuse to
   advocate — breaks on this woman, because handing Corin the finding hands him
   Talia.
 - **What she wants:** to be left to run her own affairs, as she has for fifty
@@ -68,15 +68,15 @@ Odett.
 
 Odett lied to her, on the doorstep, about who was calling — *"Nobody, love.
 Terrace association."* Talia caught it inside four seconds and said so out loud
-in front of the caller. Then Shan knocked again, which told her the caller was
+in front of the caller. Then Shanhi knocked again, which told her the caller was
 not the terrace association, and she used that on Odett immediately.
 
-**She has told Shan to put it in writing.** That is a genuine channel and she
+**She has told Shanhi to put it in writing.** That is a genuine channel and she
 will read what arrives, because she reads everything. She did not come to the
 door and will not.
 
 **She now knows somebody is asking about her money.** She has not been told who
-sent them and has not asked Shan. Unopposed, she asks Odett that evening whether
+sent them and has not asked Shanhi. Unopposed, she asks Odett that evening whether
 Corin sent someone, gets an answer she doesn't believe, and **says nothing and
 waits.** She does not change the standing order — changing it would be admitting
 something, and she is not going to.

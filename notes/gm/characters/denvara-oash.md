@@ -1,6 +1,6 @@
 # Senior Partner Denvara Oash
 
-Lashunta. Handles intake at the Eyeswide Agency. Decides whether Shan gets in,
+Lashunta. Handles intake at the Eyeswide Agency. Decides whether Shanhi gets in,
 and trains her telepathy if she does. Warm, extremely good at the job, and the
 reason she was accepted is not the reason she thinks.
 
@@ -22,7 +22,7 @@ find that none of it was a lie and all of it was a choice about what to mention.
 
 - **What they're for:** the discovery that getting what you wanted is not the
   same as being trusted with it.
-- **What they want:** Shan inside the building, working, competent, and pointed
+- **What they want:** Shanhi inside the building, working, competent, and pointed
   at cases Oash has selected. Genuinely wants her to be good — a contained asset
   that isn't useful isn't worth containing, and Oash finds waste distasteful.
 - **What they'd never do:** lie outright. Or destroy the Meridian file — Oash
@@ -30,16 +30,16 @@ find that none of it was a lie and all of it was a choice about what to mention.
 
 ## POSITIONS
 
-None taken in the open yet. **Accepted Shan's application knowing exactly what
+None taken in the open yet. **Accepted Shanhi's application knowing exactly what
 she is going to try to do with the job.** That is a position and she doesn't
 know it's been taken.
 
 ## Knows, believes, lies
 
 - **Knows:** that Eyeswide was retained by Meridian Trust six years ago for
-  due-diligence on the Ring Seven leases. That the closed file would open Shan's
-  case. That Shan's case is the reason she applied.
-- **Believes:** sincerely, that keeping Shan inside is better for Shan than
+  due-diligence on the Ring Seven leases. That the closed file would open Shanhi's
+  case. That Shanhi's case is the reason she applied.
+- **Believes:** sincerely, that keeping Shanhi inside is better for Shanhi than
   leaving her outside. This is self-serving and also true, which is why Oash can
   hold it comfortably.
 - **Lies about:** nothing. See VOICE — this is the constraint the whole character
@@ -50,10 +50,10 @@ know it's been taken.
 ## Facts
 
 - Lashunta, and telepathic by ancestry, which makes her the natural person to
-  train Shan's limited telepathy after the dedication.
+  train Shanhi's limited telepathy after the dedication.
 - **Has not decided to bury the case.** Has decided to keep the option open,
   which is worse and more interesting. Play the ambiguity honestly — Oash could
   still go either way and does not herself know which.
-- Everything Eyeswide offers Shan is real: the training, the resources, the
+- Everything Eyeswide offers Shanhi is real: the training, the resources, the
   telepathy. **She gets exactly what she came for.** What she does not get is a
   free choice of cases, and that is the only thing wrong.

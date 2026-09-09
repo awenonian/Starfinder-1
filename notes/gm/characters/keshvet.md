@@ -1,6 +1,6 @@
 # Lieutenant Keshvet
 
-Shirren. Shan's supervisor at Absalom Station Security. The one who told her to
+Shirren. Shanhi's supervisor at Absalom Station Security. The one who told her to
 drop the case. Still on the force, still senior, and has not been able to look
 at her in three years.
 
@@ -23,28 +23,28 @@ Also cannot apologise directly; they will circle it indefinitely and never land.
 
 ## INTENTION
 
-- **What they're for:** the proof that the people who failed Shan are not
+- **What they're for:** the proof that the people who failed Shanhi are not
   villains. Keshvet is the campaign's argument that institutional cowardice is
   made of ordinary people making defensible decisions.
 - **What they want:** to have been someone who did not do that. Failing which,
   to be useful now, on terms that don't cost the people they're responsible for.
-- **What they'd never do:** pretend it wasn't their choice. Or ask Shan to
+- **What they'd never do:** pretend it wasn't their choice. Or ask Shanhi to
   forgive them — they consider that a thing they are not entitled to request.
 
 ## POSITIONS
 
-**Told Shan to stop working the case, and then removed her when she didn't.**
+**Told Shanhi to stop working the case, and then removed her when she didn't.**
 Freely, knowingly, under threat but not under compulsion. Has never withdrawn it
 and has never defended it.
 
 ## Knows, believes, lies
 
 - **Knows:** who leaned on them, and what was threatened. The shape of the
-  pressure, which is more than Shan has.
-- **Believes:** that Shan was right. Always has.
+  pressure, which is more than Shanhi has.
+- **Believes:** that Shanhi was right. Always has.
 - **Lies about:** nothing. Keshvet does not lie. They decline.
 - **Won't say:** the threat, unprompted — because saying it out loud sounds like
-  an excuse, and they have decided they are not allowed one. **Shan can get this
+  an excuse, and they have decided they are not allowed one. **Shanhi can get this
   by asking directly.** It is not gated behind a roll.
 
 ## Facts
@@ -53,7 +53,7 @@ and has never defended it.
   immigration status of several others who left the same hive. **This is what was
   threatened.** (Player does not know.)
 - Still a lieutenant. Not promoted since. Not demoted either.
-- **Keshvet made Shan's dismissal clean.** Established from the other end in
+- **Keshvet made Shanhi's dismissal clean.** Established from the other end in
   session 2, by Vey Torrance, who noticed the absence rather than the act: no
   charge sheet, no conduct finding, no licence hold, and a PI ticket inside four
   months. Two things are true at once and both matter.
@@ -67,7 +67,7 @@ and has never defended it.
     cost them something to do, and **they have never mentioned it and never
     will** — saying it out loud would sound like a defence, and Keshvet has
     decided they are not allowed one.
-  - If Shan ever puts it to them directly, Keshvet confirms it flatly, in one
+  - If Shanhi ever puts it to them directly, Keshvet confirms it flatly, in one
     sentence, and refuses to be thanked. (Player does not know any of this.)
 - **Do not spend this character early.** Keshvet is the most useful NPC in the
-  opening structure and works best once Shan has something to trade.
+  opening structure and works best once Shanhi has something to trade.

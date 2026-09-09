@@ -13,7 +13,7 @@ What the player *doesn't* know goes in `notes/gm/STATE.md`.
 
 ## The character
 
-**Teoshanhi — "Shan."** Pahtra operative, born on Absalom Station. Sheet and
+**Teoshanhi — "Shanhi."** Pahtra operative, born on Absalom Station. Sheet and
 full statistics: `notes/player-owned/teoshanhi.md`. 16 HP, AC 18, Perception +7.
 
 Ex-detective, Absalom Station Security. Dismissed roughly three years ago for
@@ -21,7 +21,7 @@ refusing to stop working a case. Private investigator since.
 
 **Credits:** 19 remaining after kit.
 
-## What Shan knows about the old case
+## What Shanhi knows about the old case
 
 She has never had evidence for any of this. That is the whole problem.
 
@@ -49,13 +49,13 @@ She has never had evidence for any of this. That is the whole problem.
   said so. Inspects hull integrity for the station's structural authority.
   Has told her repeatedly to let go, slow down, do anything but this. Has never
   made it a condition of anything.
-- **Ifset** (pahtra) — one of Shan's clutch-siblings. Performs, teaches,
-  respected in the station's pahtra community. Finds Shan's entire life faintly
+- **Ifset** (pahtra) — one of Shanhi's clutch-siblings. Performs, teaches,
+  respected in the station's pahtra community. Finds Shanhi's entire life faintly
   embarrassing and says so.
 - **Senior Partner Denvara Oash** (lashunta) — handles intake at the Eyeswide
-  Agency. Will decide Shan's application.
+  Agency. Will decide Shanhi's application.
 
-## The world, as Shan understands it
+## The world, as Shanhi understands it
 
 **Absalom Station.** The great hub of the Pact Worlds, built during the Gap with
 the Starstone at its core; nobody alive knows who built it or why, and everyone
@@ -65,7 +65,7 @@ structure whose blueprints do not exist.
 Stratified vertically, and the whole vocabulary of the place is about level. The
 upper rings have windows. The lower levels have pipework and rent, and the
 further down you go the more the station stops being a city and starts being
-machinery that people happen to live inside. Shan works down there mostly.
+machinery that people happen to live inside. Shanhi works down there mostly.
 
 **A Drift-lane docking expansion is coming.** Enormous public works, enormous
 money. Everyone knows. Nobody has publicly worked out exactly where the value
@@ -89,10 +89,10 @@ deliveries from a wholesale supplier — around **31 units** a delivery.
 
 **Her complaint:** for about six weeks her stock has been coming up short. She
 pays for a full delivery and what reaches her shelves is less than that. She
-assumed the supplier was billing for more than they dropped off, and hired Shan
+assumed the supplier was billing for more than they dropped off, and hired Shanhi
 for **40 credits** to sit on the loading dock and catch them at it.
 
-**What Shan has established instead:** the shortfall is not happening at
+**What Shanhi has established instead:** the shortfall is not happening at
 delivery. It happens afterwards, out the same door, around 0247, carried by
 **Teren** — Huvv's own night manager — onto a rented flatbed. The crates are
 Huvv's own legitimate stock with her supplier's markings on them.
@@ -100,11 +100,11 @@ Huvv's own legitimate stock with her supplier's markings on them.
 **Why the locked door mattered:** the **delivery manifest** is inside. The
 supplier's stated count, set against a physical count of the shelves, proves
 where between dock and shelf the stock disappears. That is the difference
-between Shan's word and a document that clears the supplier and names the room.
+between Shanhi's word and a document that clears the supplier and names the room.
 
 ## Open, as of the start of play
 
-- **Shan's application to Eyeswide is in**, and has been for a while. It will be
+- **Shanhi's application to Eyeswide is in**, and has been for a while. It will be
   decided by Denvara Oash.
 
 ## Where things stand — session 2, night before the meeting
@@ -117,15 +117,15 @@ between Shan's word and a document that clears the supplier and names the room.
   honestly. Teren, the night manager, has been taking about a fifth of each
   delivery out the service door for six weeks to service a **940-credit debt**
   to a lender two levels down. Next payment due in **seven days** now.
-- **Huvv knows all of it**, including that Shan broke her lock and went through
-  Teren's coat. She said she'd ask Teren herself, that night. **Shan has not
+- **Huvv knows all of it**, including that Shanhi broke her lock and went through
+  Teren's coat. She said she'd ask Teren herself, that night. **Shanhi has not
   been back and does not know how that went.**
-- **Huvv asked Shan to come back. Not for work.** Shan didn't answer.
+- **Huvv asked Shanhi to come back. Not for work.** Shanhi didn't answer.
 - **14 credits.** Cost of living is 10/week Comfortable.
 
 ### Home, and Pell
 
-- Shan lives nine levels down and two rings inward from Huvv's concourse. One
+- Shanhi lives nine levels down and two rings inward from Huvv's concourse. One
   room and a partition. Pell is there more nights than not.
 - **Pell knows about Eyeswide and is delighted.** A wage, a desk, people who
   answer the comm. **Pell has not asked why she applied.**
@@ -156,7 +156,7 @@ From Vey Torrance, retired Station Security detective, at the Loading Gate:
 - Vey's verdict: *"She's the most honest person I've ever met and I'd rather she
   was on my side of the tape."*
 
-### The thing Vey said that Shan didn't ask for
+### The thing Vey said that Shanhi didn't ask for
 
 > "Not that they binned you. Sure, they binned you. It's that binning you was
 > *all* they did."

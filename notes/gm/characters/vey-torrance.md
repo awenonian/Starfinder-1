@@ -5,8 +5,8 @@ Pensioned out three years ago — her spine gave up before she did. Walks with a
 stick. Drinks at the Loading Gate, the unmarked bar under the old Fourth
 Precinct, with her back to the wall.
 
-Knew Shan on the force. Was not her partner and was not her friend. Introduced
-in session 2 as Shan's route to Denvara Oash.
+Knew Shanhi on the force. Was not her partner and was not her friend. Introduced
+in session 2 as Shanhi's route to Denvara Oash.
 
 ## VOICE
 
@@ -30,13 +30,13 @@ month. She will keep answering and she will never say why.
 ## INTENTION
 
 - **What she's for:** the retired-detective vector. A route to institutional
-  memory that Shan cannot get from records and will not get from anyone still
-  serving. Also the one person who will say a hard true thing to Shan's face
+  memory that Shanhi cannot get from records and will not get from anyone still
+  serving. Also the one person who will say a hard true thing to Shanhi's face
   without wanting anything back for it.
 - **What she wants:** to still be a detective. She is not one. Nobody asks her
   anything any more. That is the whole engine — **she talks because she is
   asked.**
-- **What she'd never do:** soften something to be kind, or ask Shan how she's
+- **What she'd never do:** soften something to be kind, or ask Shanhi how she's
   doing. She'd also never carry a message to anyone still on the force; she is
   finished with that building and it is finished with her.
 - **Does not solve problems.** She has memory and opinions and no reach. She
@@ -45,7 +45,7 @@ month. She will keep answering and she will never say why.
 ## POSITIONS
 
 None taken yet, in the sense of committing to something costly. She did
-volunteer, unprompted and to Shan's face, that Shan's dismissal was
+volunteer, unprompted and to Shanhi's face, that Shanhi's dismissal was
 suspiciously gentle — see below. That was an observation, not an alliance.
 
 ## Knows, believes, lies

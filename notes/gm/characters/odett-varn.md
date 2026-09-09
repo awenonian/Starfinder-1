@@ -26,7 +26,7 @@ ago, and that was the end of the discussion as far as Odett is concerned.
 ## INTENTION
 
 - **What she's for:** the one person in this campaign who **lies**, and lies
-  well, and is lying out of loyalty rather than guilt. Shan has **Lie to Me**.
+  well, and is lying out of loyalty rather than guilt. Shanhi has **Lie to Me**.
   Let the feat catch her. What it catches is not theft.
 - **What she wants:** to keep her licence and keep her word, in that order only
   because losing the first loses her the second.
@@ -37,7 +37,7 @@ ago, and that was the end of the discussion as far as Odett is concerned.
 ## POSITIONS
 
 **Session 2, the doorstep.** Lied to Talia's face about who was at the door —
-*"Nobody, love. Terrace association."* — with Shan standing there watching her
+*"Nobody, love. Terrace association."* — with Shanhi standing there watching her
 do it. Cost: Talia caught it immediately and said so out loud, and Odett is now
 a woman who has been caught lying to the person she looks after, in front of a
 witness, over something she still won't explain.
@@ -56,7 +56,7 @@ witness, over something she still won't explain.
 
 ## The tell she already gave
 
-When Shan said *"a discrepancy in your financials,"* Odett did not look puzzled.
+When Shanhi said *"a discrepancy in your financials,"* Odett did not look puzzled.
 No half-second of *what discrepancy.* What crossed her face was **recognition**,
 suppressed immediately. **Delivered, session 2.** She knows exactly which sixty
 credits are in question — and a player will read that as guilt, which is the

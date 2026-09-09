@@ -14,7 +14,7 @@ your decision for something the table established.
 **4** — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
 **Always pass `--chaos 4`; the script defaults to 5.**
 
-Lowered from 5 at the end of session 1: Shan ended more in control than she
+Lowered from 5 at the end of session 1: Shanhi ended more in control than she
 started. She began with a stalled case and a pending application and finished
 with the case answered, the client told, and the Eyeswide job accepted — despite
 losing both rolls she made.
@@ -30,12 +30,12 @@ player stalls rather than forcing them to choose.
 
 | Clock | Segments | Filled | What happens when it completes |
 |---|---|---|---|
-| **The Ring Seven lease vote** | 6 | 0 | The Assembly votes to sell. Meridian gets the blocks; everyone still living in them is served notice. This is the thing the whole conspiracy exists to deliver, and it happens whether or not Shan is looking. |
-| **Wen's nerve** | 4 | 1 | Hollis Wen runs, or talks, or is removed. Ticks when anyone applies pressure anywhere near the Office of Vital Records — including pressure Shan doesn't know she applied. The most fragile point in the structure and the first to move. |
-| **Oash's patience** | 6 | 0 | Oash stops keeping the option open and decides. Ticks as Shan gets closer to the Meridian file. Which way it falls is genuinely undetermined — see her character file. |
+| **The Ring Seven lease vote** | 6 | 0 | The Assembly votes to sell. Meridian gets the blocks; everyone still living in them is served notice. This is the thing the whole conspiracy exists to deliver, and it happens whether or not Shanhi is looking. |
+| **Wen's nerve** | 4 | 1 | Hollis Wen runs, or talks, or is removed. Ticks when anyone applies pressure anywhere near the Office of Vital Records — including pressure Shanhi doesn't know she applied. The most fragile point in the structure and the first to move. |
+| **Oash's patience** | 6 | 0 | Oash stops keeping the option open and decides. Ticks as Shanhi gets closer to the Meridian file. Which way it falls is genuinely undetermined — see her character file. |
 | **Teren's payment** | 4 | 0 | Due **seven days from the end of session 2**. He has confessed, kept his job, and lost his only method of paying. Unopposed he tries to borrow from a second lender to cover the first. Unconnected to the main plot — see his file, and keep it that way. |
 
-**Tick these between sessions.** The situation Shan comes back to must have
+**Tick these between sessions.** The situation Shanhi comes back to must have
 moved without her.
 
 ## Rulings
@@ -46,11 +46,11 @@ consistently.
 
 | Situation | Ruling | When |
 |---|---|---|
-| Shan's noir inner monologue is narrated aloud while she has limited telepathy | Mechanically unchanged (RAW: deliberate send, no thought access). Narratively, a novice leaks — see full ruling below. | Session zero |
+| Shanhi's noir inner monologue is narrated aloud while she has limited telepathy | Mechanically unchanged (RAW: deliberate send, no thought access). Narratively, a novice leaks — see full ruling below. | Session zero |
 | Tradesperson callout rates (not in the rules) | Anchored to GM Core's cost-of-living scale, where 10 credits = one week Comfortable. Locksmith: **8 credits** standard callout in business hours (drill, supply, fit, cut keys); **20 credits** for a guaranteed short-notice out-of-hours rush. Scale other trades similarly. | Session 1 |
 | Swapping a cheap lock cylinder | No roll for a character trained in Thievery with a toolkit, unpressured. It is a screwdriver job and she opens these professionally. A roll would only govern speed or traces under pressure. | Session 1 |
-| Masking your thoughts by doing mental arithmetic (a station rumour) | **It does nothing, because there is nothing for it to work against** at the level Shan has. Limited telepathy is a send. Worse, it is *actively counterproductive against anyone who reads people*: the stillness, the fixed stare, the unmoving hands are the most legible thing in the room. Never explain this as GM narration — let an NPC report what they can actually see. | Session 2 |
-| Letting a true sentence do a false sentence's work | **Deception**, not Diplomacy, and not free. Shan naming "my agency" so a listener fills in "the bank" is creating a false impression, which is what Deception governs regardless of how carefully it was assembled out of facts. Circumstance bonus available for a framing that is genuinely boring. | Session 2 |
+| Masking your thoughts by doing mental arithmetic (a station rumour) | **It does nothing, because there is nothing for it to work against** at the level Shanhi has. Limited telepathy is a send. Worse, it is *actively counterproductive against anyone who reads people*: the stillness, the fixed stare, the unmoving hands are the most legible thing in the room. Never explain this as GM narration — let an NPC report what they can actually see. | Session 2 |
+| Letting a true sentence do a false sentence's work | **Deception**, not Diplomacy, and not free. Shanhi naming "my agency" so a listener fills in "the bank" is creating a false impression, which is what Deception governs regardless of how carefully it was assembled out of facts. Circumstance bonus available for a framing that is genuinely boring. | Session 2 |
 | Harmonic Sensitivity's +2 to Deception | Applies to **mimicking a specific voice or a specific sound**, per the feat. Adopting a professional *register* is not mimicry and gets nothing. | Session 2 |
 | Reading a document the character has been handed | No roll. She is a professional reading a file in her own hands; the statement tag was there for anyone who looked. Rolls govern getting the document, not comprehending it. | Session 2 |
 
@@ -59,7 +59,7 @@ consistently.
 ## The audible inner monologue — full ruling
 
 **The situation.** The player wants to run a classic noir inner monologue out
-loud, and wants other characters to be able to hear it, since Shan gets limited
+loud, and wants other characters to be able to hear it, since Shanhi gets limited
 telepathy from the Eyeswide Detective dedication at 2nd level.
 
 **What the rules actually say** (verified, Player Core, shirren ancestry):
@@ -70,7 +70,7 @@ would."* By the book it is a deliberate send. It does not leak and it does not
 read anyone.
 
 **The ruling.** Mechanically, exactly as written. Narratively, a novice leaks.
-Shan is an adult handed psychic training by an employer a few weeks ago; the
+Shanhi is an adult handed psychic training by an employer a few weeks ago; the
 channel is a skill and she hasn't got it yet. When she is monologuing hard and
 someone who shares a language is inside 30 feet, they may catch some of it.
 
@@ -83,7 +83,7 @@ someone who shares a language is inside 30 feet, they may catch some of it.
    it didn't leak.
 2. **The characters play it straight.** Nobody in the fiction finds it funny and
    nobody winks. An NPC who catches *"she walked in like bad news wearing a coat"*
-   responds to the content, flatly, as though Shan had said it out loud — because
+   responds to the content, flatly, as though Shanhi had said it out loud — because
    from their side she did. The humour is entirely in the gap, and it dies the
    instant someone in the world acknowledges the joke.
 3. **It is not free.** Leaking in front of the wrong person should sometimes cost
@@ -110,7 +110,7 @@ three missing characters:
 | Severe | 120 | −90 | 30 XP | one creature at level 0 |
 | Extreme | 160 | −120 | 40 XP | **one creature at level 1** |
 
-**So a single on-level enemy is an EXTREME encounter for Shan alone** — GM Core's
+**So a single on-level enemy is an EXTREME encounter for Shanhi alone** — GM Core's
 words for that tier are "likely even match, entire party at risk, use sparingly."
 She has 16 HP. This is not pessimism, it is the table.
 
@@ -140,7 +140,7 @@ Moved here at the close of session zero. **The player has none of this.**
 
 **REBUILT after lines and veils.** The first version of this ran on corpse
 trafficking, which brushed body horror. Replaced. The replacement is better —
-the evidence Shan has spent three years failing to find turns out to be four
+the evidence Shanhi has spent three years failing to find turns out to be four
 hundred living people — so this is not a compromise and should not be treated
 as one. No trace of the earlier version should surface.
 
@@ -151,12 +151,12 @@ Security" is a GM invention.** The Stewards, Eox, the Diaspora and Pulonis are
 canon and used as such. Ring Seven, Meridian Trust, and all named NPCs are GM
 inventions.
 
-### The old case — what Shan knows
+### The old case — what Shanhi knows
 
 Three years ago, Detective Teoshanhi caught a missing-person case on a lower
 habitation level. Reported by a neighbour; nobody else ever asked after them.
 The file said the person had left the station voluntarily on a labour contract.
-Shan found the signature forged.
+Shanhi found the signature forged.
 
 **What she worked out, and is right about:**
 - People from the lower levels — indebted, uninsured, transient — are being
@@ -205,7 +205,7 @@ Keep both — losing the banality loses the point.
   most questions you could think to ask him.
 - **Deputy Registrar Hollis Wen** — Office of Vital Records. Splits the forms.
   Mid-level, frightened, and **the single most fragile point in the structure.**
-  Shan already has this name and has never been able to do anything with it.
+  Shanhi already has this name and has never been able to do anything with it.
 - **Ordulan** — an Eoxian labour broker at the receiving end, placing contracts
   mostly into Diaspora asteroid mining. Undead, and scrupulously legal by their
   own lights: every contract arrives valid and they have never once checked.
@@ -214,7 +214,7 @@ Keep both — losing the banality loses the point.
 
 ### Why this is the right engine
 
-The evidence Shan could never find is **four hundred living people**. Any one of
+The evidence Shanhi could never find is **four hundred living people**. Any one of
 them could testify. They are simply not here, nobody is looking, and they do not
 know they are evidence. That is a search that gets *worse* as it succeeds, which
 is what her character needs.
@@ -284,7 +284,7 @@ Assembly majority exists to deliver.
 **Pell is sitting on documentary evidence of the whole endgame and does not know
 it.** It is in their work bag. It comes up over dinner.
 
-The route to it is Shan asking Pell about their day and *listening*. Which
+The route to it is Shanhi asking Pell about their day and *listening*. Which
 requires her to do the one thing she structurally does not do: be close to
 someone and stay long enough to hear it. **This is the campaign's best pressure
 on her central contradiction. Do not shortcut it, and do not have Pell
@@ -299,14 +299,14 @@ the Ring Seven leases. Routine, legitimate, well paid — and it means **Eyeswid
 own archive holds material that would open this case**, sitting in a closed file
 nobody has any reason to pull.
 
-**Senior Partner Denvara Oash** read Shan's personnel file before she ever
+**Senior Partner Denvara Oash** read Shanhi's personnel file before she ever
 applied, recognised the case immediately, and took her *because* of it. Better
 inside, where her assignments can be chosen, than outside filing records
 requests.
 
 Oash has **not** decided to bury it. Oash has decided to keep the option open,
 which is worse and more interesting. The training is real, the telepathy is
-real, the resources are real — **Shan gets exactly what she came for.** What she
+real, the resources are real — **Shanhi gets exactly what she came for.** What she
 does not get is a free choice of cases.
 
 ### Twist tests
@@ -328,7 +328,7 @@ Run on every layer above. All four pass:
 4. **Found, not delivered.** Every layer is reachable by her doing what she
    already wants to do. Nothing here needs to arrive on a schedule.
 
-### What Shan must not be told
+### What Shanhi must not be told
 
 She does not know: the identity layer, the votes, Meridian Trust, Kray, Ring
 Seven, Eyeswide's retainer, why Keshvet folded, why Ghesh folded, or that Pell's
@@ -363,7 +363,7 @@ happens next" instead of one invented on the spot.
 
 ### The Eyeswide Agency (Denvara Oash)
 
-- **Wants:** Shan inside, competent, and working assigned cases. Genuinely wants
+- **Wants:** Shanhi inside, competent, and working assigned cases. Genuinely wants
   her to be good at it.
 - **Unopposed this week:** approves the application. Assigns her something small
   and near, to watch how she moves.
@@ -385,12 +385,12 @@ happens next" instead of one invented on the spot.
 
 ### Pell
 
-- **Wants:** Shan to finish something. Once.
+- **Wants:** Shanhi to finish something. Once.
 - **Unopposed this week:** files the Ring Seven report again. Watches it close.
   Complains about it over dinner to someone who isn't listening.
 - **Would never:** issue an ultimatum.
 
-### Shan (for the GM's benefit)
+### Shanhi (for the GM's benefit)
 
 - **Wants:** the evidence. Method: relentless, indirect, from outside.
 - **Unopposed:** she works. She has been working for three years.
@@ -412,7 +412,7 @@ Grubby, badly paid, self-contained. Its job is to establish voice, competence
 and the lower levels before the Eyeswide letter lands.
 
 **The client: Huvv.** Skittermander, six arms, runs a noodle counter on a
-mid-level concourse. Believes her supplier is shorting her deliveries. Paid Shan
+mid-level concourse. Believes her supplier is shorting her deliveries. Paid Shanhi
 **40 credits**, which is under market, and she knows it, and she apologised for
 it twice. Wants: to not be robbed, and — more — to be told it isn't her fault.
 
@@ -423,7 +423,7 @@ Six weeks now.
 - **Teren wants:** to clear about **900 credits** of debt before the interest
   resets. Would never take from the till — he considers that different, and that
   distinction is what lets him sleep.
-- **The supplier** will lose the contract over this if Shan says nothing.
+- **The supplier** will lose the contract over this if Shanhi says nothing.
 
 **The debt is to a lender operating out of a debt-relief storefront two levels
 down.** **NOT one of Kray's** — a smaller, genuinely predatory outfit with no
@@ -450,7 +450,7 @@ pp. 132–133.
 - **Dedication (Feat 2, Uncommon).** Prereq Wis +2 or occult casting; trained in
   Society. Access: member of the Eyeswide Agency. Grants **limited telepathy,
   30 ft** (+30 ft if you already have it), **expert in Society**, and the
-  **Streetwise** skill feat — and because Shan already has Streetwise, the
+  **Streetwise** skill feat — and because Shanhi already has Streetwise, the
   alternate applies: **a critical failure on Society to Gather Information
   becomes a failure instead.**
 - **Psychic Investigation (Feat 4).** +2 circumstance to Perception to Sense
@@ -487,7 +487,7 @@ pp. 132–133.
   a flash of insight into **whether your line of thinking is on the right
   track** — not a definitive answer. **The GM determines the insight.**
 
-**What this changed in play.** The bundled notes had Oash tell Shan the
+**What this changed in play.** The bundled notes had Oash tell Shanhi the
 telepathy opens nothing and *"no one in this building has a key."* The first
 half is true of the Dedication's limited telepathy; the second half is false at
 Feat 8. **Oash corrected herself unprompted, on the spot**, which is the

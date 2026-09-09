@@ -12,6 +12,7 @@ your decision for something the table established.
 ## Chaos factor
 
 **4** — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
+**Always pass `--chaos 4`; the script defaults to 5.**
 
 Lowered from 5 at the end of session 1: Shan ended more in control than she
 started. She began with a stalled case and a pending application and finished
@@ -32,7 +33,7 @@ player stalls rather than forcing them to choose.
 | **The Ring Seven lease vote** | 6 | 0 | The Assembly votes to sell. Meridian gets the blocks; everyone still living in them is served notice. This is the thing the whole conspiracy exists to deliver, and it happens whether or not Shan is looking. |
 | **Wen's nerve** | 4 | 1 | Hollis Wen runs, or talks, or is removed. Ticks when anyone applies pressure anywhere near the Office of Vital Records — including pressure Shan doesn't know she applied. The most fragile point in the structure and the first to move. |
 | **Oash's patience** | 6 | 0 | Oash stops keeping the option open and decides. Ticks as Shan gets closer to the Meridian file. Which way it falls is genuinely undetermined — see her character file. |
-| **Teren's payment** | 4 | 0 | Due **nine days from session 1**. He has confessed, kept his job, and lost his only method of paying. Unopposed he tries to borrow from a second lender to cover the first. Unconnected to the main plot — see his file, and keep it that way. |
+| **Teren's payment** | 4 | 0 | Due **seven days from the end of session 2**. He has confessed, kept his job, and lost his only method of paying. Unopposed he tries to borrow from a second lender to cover the first. Unconnected to the main plot — see his file, and keep it that way. |
 
 **Tick these between sessions.** The situation Shan comes back to must have
 moved without her.
@@ -48,6 +49,10 @@ consistently.
 | Shan's noir inner monologue is narrated aloud while she has limited telepathy | Mechanically unchanged (RAW: deliberate send, no thought access). Narratively, a novice leaks — see full ruling below. | Session zero |
 | Tradesperson callout rates (not in the rules) | Anchored to GM Core's cost-of-living scale, where 10 credits = one week Comfortable. Locksmith: **8 credits** standard callout in business hours (drill, supply, fit, cut keys); **20 credits** for a guaranteed short-notice out-of-hours rush. Scale other trades similarly. | Session 1 |
 | Swapping a cheap lock cylinder | No roll for a character trained in Thievery with a toolkit, unpressured. It is a screwdriver job and she opens these professionally. A roll would only govern speed or traces under pressure. | Session 1 |
+| Masking your thoughts by doing mental arithmetic (a station rumour) | **It does nothing, because there is nothing for it to work against** at the level Shan has. Limited telepathy is a send. Worse, it is *actively counterproductive against anyone who reads people*: the stillness, the fixed stare, the unmoving hands are the most legible thing in the room. Never explain this as GM narration — let an NPC report what they can actually see. | Session 2 |
+| Letting a true sentence do a false sentence's work | **Deception**, not Diplomacy, and not free. Shan naming "my agency" so a listener fills in "the bank" is creating a false impression, which is what Deception governs regardless of how carefully it was assembled out of facts. Circumstance bonus available for a framing that is genuinely boring. | Session 2 |
+| Harmonic Sensitivity's +2 to Deception | Applies to **mimicking a specific voice or a specific sound**, per the feat. Adopting a professional *register* is not mimicry and gets nothing. | Session 2 |
+| Reading a document the character has been handed | No roll. She is a professional reading a file in her own hands; the statement tag was there for anyone who looked. Rolls govern getting the document, not comprehending it. | Session 2 |
 
 ---
 
@@ -432,3 +437,70 @@ retroactively connect it to Kray to reward a good guess.
 
 **Where the scene opens:** night three of the stakeout, on the dock. The waiting
 is already done.
+
+---
+
+# The Eyeswide Detective archetype — full text supplied by the player
+
+`CAMPAIGN.md` flagged this as out-of-book and blocked by the network proxy, and
+said to ask the player for it. **They supplied it in session 2.** Recorded here
+so no later session has to ask again. Source: *Starfinder Absalom Station*
+pp. 132–133.
+
+- **Dedication (Feat 2, Uncommon).** Prereq Wis +2 or occult casting; trained in
+  Society. Access: member of the Eyeswide Agency. Grants **limited telepathy,
+  30 ft** (+30 ft if you already have it), **expert in Society**, and the
+  **Streetwise** skill feat — and because Shan already has Streetwise, the
+  alternate applies: **a critical failure on Society to Gather Information
+  becomes a failure instead.**
+- **Psychic Investigation (Feat 4).** +2 circumstance to Perception to Sense
+  Motive and to Seek creatures not immune to mental effects within telepathy
+  range, and +2 circumstance to your Perception DC against such creatures
+  trying to Lie to you.
+- **Psychic Interrogation (Feat 6, ◆, Concentrate/Linguistic/Mental).** Requires
+  a shared language and the target in range. Telepathically ask a non-allied
+  creature you can see a question; Will save vs the higher of your class DC or
+  spell DC. Temporarily immune for 1 hour either way. **Crit success:**
+  unaffected. **Success:** distracted, no reactions until end of your next turn.
+  **Failure:** as success, plus stupefied 1 for 1 minute, endable early by
+  taking an action to reply telepathically — they may lie, but you get +2
+  circumstance to your Perception DC against that lie, **+4 with Psychic
+  Investigation. Crit failure:** as failure but stupefied 2.
+- **Read Mental Dossier (Feat 8).** Cast **mind reading** as an innate occult
+  spell **once per day**. Use Int as the spellcasting attribute if higher than
+  Cha.
+- **Predictive Strike (Feat 10, ◆, Concentrate/Fortune, 1/10 min).** Target in
+  telepathy range. Perception check to Sense Motive. **Success:** next attack
+  roll against that target rolls twice, take the better; on a crit the target is
+  also off-guard until the start of your next turn. **Crit success:** as
+  success, plus 2 extra precision damage if trained in Perception, 4 expert,
+  6 master, 8 legendary.
+- **Anticipate Danger (Feat 12, reaction, 1/10 min).** Trigger: a creature you
+  share a language with, within telepathy range, attacks you while you're
+  off-guard to them. The attack targets your **Perception DC** instead of AC.
+  Doesn't remove the conditions causing the penalty — sneak attack still
+  applies.
+- **See the Pattern (Feat 14, ◆◆, Uncommon, Concentrate/Prediction, 1/day).**
+  Ten minutes reviewing clues. Choose a creature you've interacted with or
+  studied for an hour, or a mystery you've investigated for a day, and ask a
+  **specific, answerable** question outside Recall Knowledge's purview. You get
+  a flash of insight into **whether your line of thinking is on the right
+  track** — not a definitive answer. **The GM determines the insight.**
+
+**What this changed in play.** The bundled notes had Oash tell Shan the
+telepathy opens nothing and *"no one in this building has a key."* The first
+half is true of the Dedication's limited telepathy; the second half is false at
+Feat 8. **Oash corrected herself unprompted, on the spot**, which is the
+strongest possible expression of her one rule. See `RECORD.md`.
+
+**Established at the table, and now canon:**
+
+- Eyeswide's ladder is real and staged: send → interrogation → reading. A
+  reading is once a day, close, surface only.
+- **Oash has Read Mental Dossier. So do two other people in the building.**
+- **The house rule Oash wrote and enforces: if you use it on someone, you tell
+  them afterwards, always.** She has put two people out of the building over it.
+  This is a rule the player can hold others to — and one that can be broken.
+- The washout rumour about mind-reading headscanners is very good for Eyeswide
+  and **they have never corrected it.** Oash said so, and named it as not the
+  same as lying.

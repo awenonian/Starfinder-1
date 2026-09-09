@@ -310,3 +310,296 @@ Vey drew no conclusion from it and moved on.
 nobody: *"She never was on our side of the tape,"* and somebody laughed.
 
 **2310.** Ring Three, 0900, ten hours out.
+
+### The Eyeswide office, Ring Three, 0900
+
+Frosted glass on a mezzanine over a public concourse, name in four-centimetre
+letters, no logo. Warm light, repaired wood, a receptionist who said "Teoshanhi"
+without looking at a screen. Oash came out herself, which is not how it works
+anywhere else. Two chairs facing each other, no desk between.
+
+**Shan tried a countermeasure**, player's own idea from a station rumour — mental
+arithmetic (sevens) to mask her thoughts, started in the lift and kept going.
+
+Oash opened by saying she'd read the file, all of it, including the board
+transcript and the four earlier applications, and:
+
+> "You're entitled to be angry about that and I'd think less of you if you
+> weren't. So: ask me anything you want about what I read, and I'll answer it."
+> "...you're going to be asked to find out things about people who didn't
+> consent to it either, and I'd like you to have been on the other end of it
+> once, recently, while it still stings."
+
+**Shan's question**, and the player noted it came out more like an accusation
+than intended: *"Why did the ugly parts get me the job."*
+
+Oash's answer, verbatim in the important places:
+
+> "Because the flattering parts of a file don't tell you anything. Commendations.
+> Closure rate. *Works well with others.* That's a description of somebody's best
+> day, written by their supervisor, and I have thirty-one of those upstairs."
+> "The ugly parts are the only place a person is actually visible."
+> "Yours says: told to stop, kept going, lost the job. I'm not going to dress
+> that up for you. It isn't a flaw with a silver lining. It cost you three years
+> and a career and it will cost you again, here, probably inside the first
+> eighteen months."
+> "About a third of the people I take don't finish. Not one of them left because
+> they weren't clever enough. They left because the work eventually asks you to
+> keep going after it has stopped being reasonable, and most people — sensibly,
+> correctly, I don't blame them — stop. Your file says you don't."
+> "Your board transcript runs to forty-one pages. Thirty-four of them are about
+> a signature. I read all forty-one."
+> "You'll find we're not the police. That's the pitch, and it's also the warning."
+
+**GM note:** that answer is entirely true and is not the whole reason. Oash was
+choosing what to mention, exactly as the Sarn story described. The forty-one
+pages line is the tell, available later, in retrospect.
+
+**The counting, caught.** Oash, in the tone of telling someone their bootlace is
+undone:
+
+> "And you can stop counting. Not because I can hear you. Because your face went
+> somewhere about four minutes ago, your eyes have been on the join in the wall
+> behind my left shoulder ever since, and you haven't moved your hands in ninety
+> seconds. That is what a person looks like doing arithmetic. Whatever you were
+> trying to hide, it's the most legible thing you've done since you walked
+> through that door."
+
+**Shan pushed back**, and caught her:
+
+> "I don't care if you know I'm doing it, I care if you know what's under it.
+> There's an information disparity here, and I'm not happy about that. And I
+> notice you didn't say it doesn't work."
+> "I thought I could trust some people that I couldn't. And I'm not gonna let
+> that happen again. You said it'll get me in trouble here too. I don't know
+> what you wanted me to do with that, but letting down my guard isn't the
+> natural conclusion."
+
+Oash: *"You're right. I didn't."* Then the straight answer — the send opens
+nothing and reads nothing, the rumour is very good for the agency and they have
+never corrected it, and *"that is not the same as lying, but I'd understand if
+you filed it next door."*
+
+> "I'm not asking you to let your guard down. I would be alarmed if you did...
+> Keep the guard. What I'm telling you is that *that particular* guard was made
+> of glass. Not whether you're defended. Whether you're readable."
+> "I read your file, and then I told you I'd read your file. I did not have to
+> do that... I did it this way because it is the only version where your anger
+> has anywhere to go."
+
+**The grey wallet.** Oash handed over everything Eyeswide gathered on Shan —
+service record, board transcript, the four earlier applications, standing checks.
+Hers to keep. And named the boundary out loud:
+
+> "What is *not* in that wallet is my assessment. My own note on you — what I
+> made of it, why I signed the sponsor line, what I expect you to be like in a
+> year. That's a separate document, it's in this building, and it's mine. I could
+> tell you it doesn't exist. It exists. You're not getting it, and I'm not going
+> to pretend I'm being generous about the part I'm keeping."
+
+**The correction.** Out of character, the player supplied the full Eyeswide
+Detective archetype text (CAMPAIGN.md had flagged it as missing). It contradicted
+one clause Oash had just said — she'd overstated *"no one in this building has a
+key."* **Oash corrected herself, unprompted, before moving on**, which is the
+most characteristic thing she did all morning:
+
+> "I said there's no door on you and nobody in this building has a key. The
+> first half of that was accurate. The second half was further than I actually
+> know, and I don't say things like that."
+
+Then the ladder, plainly: the send first; then, four or five years in, putting a
+question into someone's head hard enough they can't get round it (*"They don't
+have to answer and they can lie if they do. Most of them answer"*); and past
+that, an actual reading — once a day, close, top layer only.
+
+> "But it exists. I have it. Two other people in this building have it."
+> "I did not use it on you. Not this morning, not on your file, not once. You
+> have no way to verify that, and I know you have no way to verify that."
+> "For what I needed this morning it would have been a downgrade. Surface
+> thoughts are noise. Your face was better."
+> "In this office, if you use it on someone, you tell them afterwards. Always. I
+> wrote that and I enforce it, and I have put two people out of this building
+> for it."
+
+**Oracle consulted and obeyed:** did Oash read Shan's mind during the interview?
+*Unlikely, chaos 4 — NO.* She didn't.
+
+**Terms.** Forty credits a week, paid in arrears on the seventh day, plus
+**pre-approved** expenses. Training three mornings a week, two hours, with Oash,
+starting Firstday. Not optional. *"Harder than you are expecting."*
+
+The receptionist, on the way out: *"Expenses are form E-9, submitted before, and
+if you bring me a receipt for something you've already bought I will put it in
+the drawer and it will die there. Welcome to Eyeswide."*
+
+### The case, as handed over
+
+**Corin Vandermeer**, retained eleven days ago. Says his mother **Talia
+Vandermeer**, 71, retired out of the Cantrell yards, is being robbed by her
+live-in carer **Odett Varn**, licensed, three years in post, clean. Wants dates
+and amounts for a guardianship petition.
+
+> "It's four levels from this office and it's a domestic. Nobody in it is armed,
+> nobody in it is dangerous, and I could give it to any of thirty-one people. I'm
+> giving it to you because it's small and it's near, and I'd like to see how you
+> move."
+> "He's the client and he's paying, and you'll notice I have told you what he
+> says. I have not told you what's true, because I don't know, and neither does
+> he."
+
+**Read on a bench, 0954.** Corin's two-page instruction, the address, Odett's
+licence number, her care contract — **countersigned by Corin, not Talia. He pays
+the carer.** And eighteen months of Talia's statements.
+
+> **03/— OUTGOING TRANSFER 60.00 cr**
+> **SEBWE & CO. — LICENSED TRANSMITTER — POOLED CLIENT ACCT 2**
+> **STO/04 — CONTINUING**
+
+Third of the month, sixty credits, eighteen out of eighteen, never a variation.
+Sebwe is a remittance house; a **pooled client account** shows the transfer
+happened and not who received it. Talia's pension is 94 credits and change; the
+flat isn't on the statements, so she owns it.
+
+Shan's own read, unprompted: bleeding escalates, bleeding gets sloppy, bleeding
+is an appetite written down month by month. **This looks like a standing order.**
+
+### Vandermeer Fittings, Ring Three Level Nine, 1043
+
+**Oracle: SCENE INTERRUPTED (4 vs chaos 4). Random event — "something hidden
+becomes visible," read as extort / history.**
+
+Shan walked in on a handover. A heavyset human man in a yard inspector's
+overtunic — clip readable at walking distance, **CANTRELL YARD 6 — GOODS
+INSPECTION** — at the counter with no basket, looking at nothing. Corin came out
+with a **cash box** and counted out physical credits with a pay-plate terminal
+eighteen inches away. The man pocketed it without counting, said six or seven
+words Shan couldn't hear, and walked out past her. No goods, no chit, no receipt,
+no thanks.
+
+**Player, declining the bait:** *"I'm not going to be distracted by that guy. He
+doesn't seem that relevant to the job at hand as yet, and if he does, there are
+better ways to learn that than chasing him now."*
+
+Corin got *lighter* when she said she was from Eyeswide — a man braced for one
+thing hearing it was a different thing.
+
+> "It's my mother. Talia. She's seventy-one and she is *sharp*, I want to be
+> clear about that."
+> "Sixty. Every month. Out of ninety-four... That leaves her thirty-four credits
+> a month to eat on. My mother worked forty years in the Cantrell yards and she
+> is *eating* on thirty-four credits a month, and Varn is sat in her spare room
+> on a salary I pay."
+> "It started eighteen months ago. Varn had been in post a year and a half by
+> then. A year and a half of nothing. And then it starts and it's never stopped.
+> That's not a person who snapped, that's a person who *waited.*"
+
+**On older records:** read-only portal credential Talia gave him when Varn moved
+in, so he could see she was managing. He can look and print, nothing else, and
+can't go back past the window. The bank will do it — with Talia's signature on
+the request.
+
+> "If I ask her for that, she'll want to know why. And then she'll know I've been
+> looking. And then she'll tell Varn... and then whatever's happening stops
+> happening for six weeks and starts again after you've gone."
+> "And she'll be — she gets very quiet with me. When she's angry she doesn't
+> shout, she just gets *polite.*"
+
+**Player's move**, and the best thing that happened all session:
+
+> "You said it started 18 months ago. Are you sure? ... Someone stealing would
+> try not to create a pattern. So I just want to nail down when it started,
+> because there's probably an event."
+
+Corin said *"Yes. Certain."* Shan said nothing. He explained his certainty out
+loud — *"it's the top entry, it's the earliest one there, so that's when it—"* —
+and heard it collapse mid-sentence. *"...that's when the* statement *starts."*
+He went to the terminal and tried three ways to go back further. The third made
+a noise at him.
+
+> "Eighteen months. That's just — that's just how far the button goes."
+> "Fine. So maybe it's longer. That's *worse*, isn't it? ... If she's been at it
+> for three years instead of eighteen months then that's — what's that, that's
+> more than two thousand credits—"
+
+He didn't finish the sum and went nowhere near the other end of it. Asked what
+happened eighteen months ago he offered, at random, the hip (wrong, longer ago),
+the terrace lift being out, his youngest starting school. *"Nothing. It's an
+ordinary bit of time."*
+
+**And, dismissed as clutter rather than offered as a lead:** the flat is full of
+paper. Boxes under the bed, boxes on the wardrobe, a filing crate in the hall she
+uses as a step. Corin's father died eleven years ago and his tax records are
+still in there. *"She keeps everything."*
+
+**What Shan found in the file herself**, no roll — a core document detail, freely
+available to anyone who looks. Every transfer line carries **STO/04 —
+CONTINUING**. A standing order's *first* execution prints **NEW MANDATE** with
+the tag underlined, because the bank wants the holder to see a new commitment.
+There is no such row on these eighteen pages. **Every row is a continuation of
+something already running before the first page was printed.** And STO/04 is the
+fourth standing order ever registered against the account.
+
+### 6-114, the residential terrace, Level Six, 1121
+
+Shared walkway with living plants in tubs. A wind-chime at 6-109, indoors, on a
+station, gone dull. Card in Talia's doorframe, older than the paint: **NO
+CANVASSERS, NO CHARITY, NO EXCEPTIONS.**
+
+Odett Varn answered — tea-towel, sleeves up, door a third open, hand on the edge.
+
+Shan's approach, the player's words: *"Mrs. Vandermeer? My agency sent me about a
+discrepancy in your financials. I'm sure it's nothing, but we just want to make
+sure. May I come in?"* True in every word and not the truth in any of them.
+
+**Ruling made and recorded:** letting a true sentence do a false sentence's work
+is **Deception**, not Diplomacy. Deception +4, **+1 circumstance** for how
+boring she made it sound. Harmonic Sensitivity did **not** apply — adopting a
+register is not mimicking a specific voice or sound.
+
+**Stakes named first.** Success: inside, sitting down, talking to Talia. Failure:
+door closed, and Talia learns this afternoon that somebody came about her money.
+Critical failure: that, plus it gets reported properly.
+
+**Rolled 7, total 12, against DC 16 — failure.**
+
+**What Shan got anyway, for free, because it's a face and she's a detective:** at
+the words *a discrepancy in your financials*, Odett showed no puzzlement. No
+half-second of *what discrepancy.* **Recognition**, immediately suppressed.
+
+> "Which agency would that be." *(and again, identically, after Shan's non-answer)*
+> "I'm not being rude. But I don't let people in about her money. Not the bank,
+> not the terrace, not anybody. If there's a discrepancy you can put it in
+> writing to her and she'll read it, because she reads everything."
+
+Then, from a lit room further in — Talia, unhurried: *"Who is it, Odett?"*
+
+And Odett, eyes still on Shan's, without a flicker: **"Nobody, love. Terrace
+association."**
+
+The door started closing. Through the last of the gap:
+
+> "The terrace association doesn't knock, Odett."
+
+**The knock.** Player's call, and they flagged it themselves as possibly the
+stupidest or smartest idea Shan has had:
+
+> "This may be the stupidest idea Shanhi has ever had, or the smartest one. But
+> I think Talia may be being lied to, and this might introduce a sliver of doubt.
+> The door was just closed in my face. The chance is gone. But... I knock."
+
+Three, unhurried.
+
+**Oracle: does Talia come to the door herself? Likely, chaos 4 — NO.** She
+doesn't get up. But from the lit room, pitched to carry:
+
+> "If you've got business with me, put it in writing. I'm not deaf, I'm not
+> senile, and I don't open my door."
+> "And you can stop standing in the hall, Odett."
+
+She said *whoever you are.* She did not say *the terrace association.* The knock
+did its job: it handed Talia one fact, and Talia used it on Odett about four
+seconds later without bothering to lower her voice.
+
+**1127.** Shan on the walkway with a closed door, a folder, the grey wallet, a
+notebook, and an instruction from a seventy-one-year-old woman to put it in
+writing.

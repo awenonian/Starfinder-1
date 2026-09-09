@@ -16,11 +16,15 @@ again.
     on-level enemy is an *Extreme* encounter. Full table in `notes/gm/STATE.md`
     — read it before building any fight.
   - **The audible inner monologue.** Standing ruling in `notes/gm/STATE.md`.
-  - **Out-of-book content.** The Eyeswide Detective archetype (Starfinder
-    Absalom Station p.132) is not in the bundled skills, and both Archives of
-    Nethys and Demiplane are blocked by the session's network proxy. **Ask the
-    player to paste any archetype text needed.** The dedication is recorded on
-    the character sheet.
+  - **Out-of-book content.** Archives of Nethys and Demiplane are blocked by the
+    session's network proxy, so anything outside the bundled skills has to come
+    from the player. **Ask them to paste it, and then write it into
+    `notes/gm/STATE.md` so nobody asks twice.**
+    - **Eyeswide Detective archetype (Absalom Station pp.132–133): SUPPLIED in
+      session 2 and recorded in full in `notes/gm/STATE.md`.** Do not ask again.
+    - Still missing, and worth asking for when it becomes relevant: anything
+      else out of *Absalom Station* or other non-bundled books that the build or
+      the setting starts leaning on.
 
 ## Lines and veils
 

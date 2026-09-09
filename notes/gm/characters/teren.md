@@ -4,7 +4,7 @@ Human. Huvv's night manager for two years. Has been selling about a fifth of
 each delivery out the service door on the nights he closes, for six weeks, to
 service a debt he cannot pay.
 
-Has not appeared in a scene yet — Shan has only watched him. **No verbatim
+Has not appeared in a scene yet — Shanhi has only watched him. **No verbatim
 lines exist.** What follows is intended voice, not recorded voice; replace it
 with real samples the moment he speaks.
 
@@ -19,7 +19,7 @@ looking for absolution and would find being forgiven harder than being fired.
 
 ## INTENTION
 
-- **What he's for:** the first small proof that the people Shan catches are
+- **What he's for:** the first small proof that the people Shanhi catches are
   people. And a rhyme, in miniature, with the campaign's real subject: debt on
   the lower levels, and what it makes ordinary people do.
 - **What he wants:** to clear **940 credits** before the interest resets.

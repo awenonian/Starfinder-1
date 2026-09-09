@@ -39,14 +39,14 @@ Start in the room. The acceptance interview, or the moment just after it.
 
 - **For:** fastest into the engine. Introduces Oash immediately, and Oash is
   where the campaign's second layer lives.
-- **Against:** skips showing who Shan is on her own. Player meets the agency
+- **Against:** skips showing who Shanhi is on her own. Player meets the agency
   before they've met the detective.
 
 ### C. Something from the community
 
 Ifset, or someone through Ifset — the pahtra mutual-aid fund has a member who
 stopped collecting. Nobody has reported anything. Ifset mentions it the way you
-mention an annoyance, while criticising Shan for something else.
+mention an annoyance, while criticising Shanhi for something else.
 
 - **For:** uses the sanctioned Ifset material, points at revelation A without
   delivering it, and arrives through a relationship rather than a client. Also

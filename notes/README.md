@@ -18,6 +18,7 @@ notes/
     STATE.md        the truth behind the ledger — secrets, clocks, offscreen movement
     THREADS.md      every open loop and its status. Nothing ambiguous.
     CLUES.md        the mystery as a graph: revelations, who knows what
+    RULES-SUPPLIED.md  out-of-book rules text the player pasted in. Never ask twice.
     characters/     one file per recurring character: VOICE, INTENTION, positions
     plans/          campaign plan, session plans, scene plans
       SESSION-ZERO.md   only in a campaign that hasn't started. Read it first;

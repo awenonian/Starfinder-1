@@ -1,4 +1,4 @@
-# Teoshanhi — "Shan"
+# Teoshanhi — "Shanhi"
 
 **Pahtra (Meyel's Chosen) Operative (Ghost) 1** · Detective background
 Player-owned. The GM does not change anything here without permission, except
@@ -54,7 +54,7 @@ Trained in all of the below (proficiency +3 at 1st level).
 | Underworld Lore | Int | +5 | background |
 | Piloting | Dex | **+7** | class |
 
-**No armor check penalty.** Second Skin's Strength threshold is +0 and Shan's
+**No armor check penalty.** Second Skin's Strength threshold is +0 and Shanhi's
 Strength modifier is +0, so she meets it: *"If you meet the armor's Strength
 threshold, you don't take this penalty."* (Player Core, Check Penalty.) Second
 Skin is also **flexible**, which would waive it for Acrobatics regardless.
@@ -127,7 +127,7 @@ failure**. She can come back empty-handed. She can't make things worse by asking
 **She is not trained in Diplomacy.** This was a deliberate choice, not an
 oversight. Streetwise routes Gather Information through Society (+5), so her
 information-gathering is covered; what she gives up is Make an Impression and
-Request. Shan can lie to you, and she can lean on you, and she can find out
+Request. Shanhi can lie to you, and she can lean on you, and she can find out
 about you. She cannot win you over. Play her that way.
 
 Ammunition purchasing has not been priced out; flagged if it ever matters.

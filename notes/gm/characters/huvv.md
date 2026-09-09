@@ -1,6 +1,6 @@
 # Huvv
 
-Skittermander. Runs a noodle counter on a mid-level concourse. Hired Shan for 40
+Skittermander. Runs a noodle counter on a mid-level concourse. Hired Shanhi for 40
 credits to catch a supplier who turned out to be innocent, and got handed proof
 that her night manager of two years has been robbing her instead.
 
@@ -24,7 +24,7 @@ four carry on.
 
 ## INTENTION
 
-- **What she's for:** the small honest world Shan works in, and the proof that
+- **What she's for:** the small honest world Shanhi works in, and the proof that
   people in it make expensive, decent choices without being able to afford them.
 - **What she wants:** to not be robbed, and — more — to not have been *stupid*.
   Now: for Teren to have a reason.
@@ -36,10 +36,10 @@ four carry on.
 ## POSITIONS
 
 - **Chose to ask Teren herself** rather than report or dismiss him. In front of
-  Shan, who did not argue. Cost her surprise and any chance of recovering stock.
-- **Fed Shan** after being told Shan broke into her premises. Did not react to
+  Shanhi, who did not argue. Cost her surprise and any chance of recovering stock.
+- **Fed Shanhi** after being told Shanhi broke into her premises. Did not react to
   the lock at all.
-- **Asked Shan to come back.** Not for work. Unanswered.
+- **Asked Shanhi to come back.** Not for work. Unanswered.
 
 ## Knows, believes, lies
 

@@ -53,3 +53,32 @@ Format, loosely:
 > watching. Committed to protecting the subject of the lie over her own standing
 > with the woman she looks after. Cost: Talia caught it inside four seconds and
 > said so aloud, in front of the witness. *(Session 2, the doorstep, 1121)*
+
+> **Shanhi** — told her own client, unprompted, that the case he is paying for
+> will not fix the thing he is afraid of. *"I'm not sure it'll solve that
+> problem for her. Or for you."* She had the true answer to his question in
+> eleven words and she gave him all eleven, on the arcade decking, at the end of
+> his day. Cost her the easy version of the job and told a man she had seen
+> through him. *(Session 2, Level Nine, 1707)*
+
+> **Corin Vandermeer** — having been told the case won't save the flat, asked
+> her to keep going anyway, narrowed the instruction to *"find out where the
+> money's going,"* and then asked her not to tell his mother he was behind it.
+> Cost: he has now stated, out loud, that he wants the finding for its own sake
+> and doesn't want his name on it. *(Session 2, Level Nine, 1707)*
+
+> **Huvv** — kept Teren on after he confessed, and said why in front of the
+> detective who caught him: sacking him leaves him owing the same with nothing
+> to pay it, and then he does it to a counter whose owner has no detective.
+> Holding back a third of his wages against roughly 200 credits. Also went to
+> Rennick with a box of the good chilli oil and told him what she'd been
+> thinking for six weeks. Costs her the money, the recovery, and the six weeks.
+> *(Session 2, the concourse, 1834)*
+
+> **Pell** — said out loud that Shanhi's new employer hiring her for the thing
+> that got her sacked is *"not a compliment"* and *"a known defect,"* stopped
+> themself mid-sentence rather than finish the part that would have been an
+> ultimatum, insisted on the record that they are also glad about the job, and
+> then asked the question they have never asked in three years: **"Did you tell
+> them? About the case."** Cost them the arrangement that has kept this working
+> — the one where Pell doesn't ask. *(Session 2, the flat, ~1950)*

@@ -723,3 +723,210 @@ about a second.
 
 **The cash box is gone from under the counter.** There's a clean rectangle in the
 dust on the shelf where it sat this morning.
+
+### The arcade, 1707 — the reason comes apart
+
+Shanhi looked deliberately at the empty shelf, long enough for him to see her do
+it, then: *"There was a man from Cantrell here this morning. One of your
+customers?"*
+
+**Ruling, corrected by the player mid-scene and applied:** **Lie to Me** swaps
+Deception in for Perception, so the DC is the **higher** of the two —
+Shanhi's **Perception DC 17**, not her Deception DC 14. Corin rolled Deception
+**+0** (nominal +2, −2 for having just been shown she was watching the shelf).
+
+**Rolled 2. Critical failure.** The rehearsed line — *"He's a supplier. Salvage
+merchant, does a lot of the yards, he doesn't take plate so I settle him in—"* —
+came apart in his own mouth, in a shop with a lit pay-plate on the counter and
+no delivery in weeks. **He knows she knows.** She does not know what the truth
+is.
+
+> "That's got nothing to do with my mother. That's my business. That's — that's
+> mine. It's got nothing to do with what I'm paying you for."
+
+Which is, as far as she can tell, entirely true, and the most incriminating
+thing he said all day.
+
+**Then the question that broke it open**, player's own, with their reasoning
+stated first — that the obvious answer wouldn't be the true one:
+
+> "This has been going on for at least 18 months. Why did you hire us now?"
+
+He reached for *that's just when I noticed* and could not use it, because he had
+put that down himself at eleven o'clock that morning.
+
+> "Months. I've known months. I looked at it in the winter. I saw the sixty and
+> I thought, that's not right. And then I put it away. And I looked at it again
+> in the spring and I put it away again. You can do that for a long time."
+
+**And then, sincerely, with no tell in it at all — Lie to Me got nothing,
+because he wasn't lying:**
+
+> "Because if it carries on she loses the flat."
+
+The flat is not on the statements because there is nothing to put on them — no
+lease, no charge, no encumbrance. **Talia owns 6-114 outright.** Sixty credits a
+month cannot take a home off a woman who owns her home.
+
+Then, quieter, with the force gone:
+
+> "And because I haven't got— Because it needs to be sorted this year."
+
+**Nothing in his mother's situation has a deadline.** *This year* is his.
+
+**Where the flat idea came from** — asked directly, and he answered eagerly,
+glad to be off the other subject: **Marek**, five doors down, tool hire, yellow
+front. Marek's mother went into a facility two years ago; the placement was
+assessed against her assets; the family sold her flat for **eleven thousand
+credits** and every credit went to the facility. Four kids, nothing left.
+
+That is real, standard, and happens to everybody — and it has nothing to do with
+sixty credits a month. **Corin has fused two true things into one false one, and
+nobody put them there for him.**
+
+> "That's right, though. Isn't it? They can do that. Take the flat."
+
+**Shanhi answered it straight**, and went one step past her usual line:
+
+> "A predatory home could, yes. But 60 credits a month wouldn't stop it. It'd
+> just be another asset. Something else they could take."
+> "I'll still get to the bottom of this, but... I'm not sure it'll solve that
+> problem for her. Or for you."
+
+He refused it, fell back on the original grievance, ran out partway through, and
+then said, to the decking:
+
+> "Then what do I do?"
+
+A sentence with no mother in it. He heard the shape of it a second later and
+talked over it.
+
+> "Just find out where the money's going. That's what I'm paying for. Where it
+> goes, and how long it's been going, and I'll — I'll work out what to do with
+> that."
+
+Then, locking the shutter, at the very end:
+
+> "One thing. When you talk to her. Don't tell her it was me."
+
+**The letter was already in the post.** Player: *"What's done is done. I can at
+least refuse to confirm it if she asks."*
+
+### Huvv's counter, 1834
+
+Stools down, four occupied, the counter running properly. Huvv saw her from
+twelve metres out and did not attempt to be cool about it — two arms up, one
+holding a ladle, **"SHANHI."**
+
+**Teren is still there.** He got her the good stool, did not quite look at her,
+and went back to the flat-top. Huvv filled the silence so nobody had to.
+
+> "You came *back*. I said. I said to Teren, she'll come back, and he said—
+> well. Anyway. You came back."
+
+A bigger bowl than last time, and she refused payment flatly: *"You want to give
+me credits, you can go and be robbed somewhere else. It's noodles. I have* so
+many *noodles."*
+
+Shanhi, when asked how she was — and the player noted a sigh releasing tension
+she hadn't known she was holding:
+
+> "It's not bad. It's just a new job. It's not going as well as I hoped, but it
+> never does. It's not going worse than I expected, really. It's just never
+> easy."
+
+**What happened with Teren** — Huvv, quietly, over the extract fan:
+
+> "I asked him. That night. After close, in the back, I said Teren, is it you.
+> And he said yes before I'd got to the end of it. Didn't even — no face, no
+> anything. Just yes. And then he told me the number. I hadn't asked him for a
+> number. You'd already told me the number and he told me it again like he was
+> handing it over."
+>
+> "Because if I sack him he's got nothing to pay it with. And then what? Then
+> he's got nothing and he owes the same and he does it to somebody else's
+> counter, and *that* person doesn't have a detective."
+
+She's **holding back a third of his pay** until he's square with her —
+**about 200 credits** over the six weeks. He didn't argue. *"He'd have agreed to
+anything, which is its own—"*
+
+She went and saw **Rennick**, took him a box of the good chilli oil, and told
+him what she'd been thinking for six weeks. *"He was* nice *about it. That was
+worse."*
+
+> "He's got seven days. For the other thing. The lender. And I asked him what
+> he's going to do and he said he'd sort it. That's what he said the first time.
+> About the crates. *I'll sort it.*"
+>
+> "I'm not asking you to do anything, I want that said out loud, because I know
+> what you're like and you've been sat there for four minutes going *how would I
+> fix this*." *(Shanhi had been.)*
+>
+> "I'm telling you because there's nobody else who knows. Everybody else on this
+> concourse thinks I've got a lovely night manager."
+
+On the way out, one small hand on her forearm for a second and a half, and:
+**"Next week."** Not a question.
+
+### Home, 1943 — the invitation answered, and the question asked
+
+Player's framing for the whole evening: *"I'll give Huvv a visit, for dinner.
+And then see Pell. Sleep at our place for a few nights in a row for once."*
+
+Somebody has put a strip of **yellow inspection tape** over the bottom third of
+the flickering door strip, at an angle. It does nothing about the flickering and
+a great deal about it being in your eyes.
+
+Pell, cross-legged on the bed, out of the overtunic: *"You're early. Twice in
+three days. I'm going to have to recalibrate."* And, on the carpet: *"Ha. I knew
+it."*
+
+**Pell's list**, handed over, ruled off with an actual straight edge, and then
+Pell couldn't look at her while she read it:
+
+> *WHEN THE FIRST ONE LANDS*
+> *— light strip (proper one, not the cheap)*
+> *— second blanket*
+> *— get the recycler seal done, it's not the motor, it's the seal*
+> *— your boots*
+> *— ~~move up a level~~*
+
+Last line struck through **with the same straight edge** — neat enough to be a
+decision, legible enough to be meant to stay legible. Pell, to the mug: *"It's
+not a — that's just. That's what a wage is for. That's all that is."*
+
+Then: *"Go on then. Tell me about your day."*
+
+Shanhi gave it in two sentences:
+
+> "She told me my drive would get me in trouble again."
+> "But she also said it's why I got the job."
+
+Pell took delivery of both, put the mug down, and said them back:
+
+> "Your new boss told you that the thing that got you thrown off the force is
+> going to do it to you again. Here. In her building. And then she hired you for
+> it."
+>
+> "That's not a compliment, Shanhi. You know what that is? That's a **known
+> defect**. You find a crack. It's a real crack, it's in the report, everybody's
+> seen it. And you work out that replacing the part costs more than the crack is
+> going to cost you, so you write it up, you note it, you sign it off, and you
+> keep operating. And that's *fine*. That's a legitimate call. I sign those off.
+> I signed one off on Tuesday."
+>
+> "But the part doesn't get told. The part doesn't get sat down and told *we
+> know about you and we're going to run you anyway.* That's the bit I can't—"
+
+**Pell stopped the sentence deliberately.** Visibly. Then:
+
+> "And I'm glad about the job. I want that written down as well. Both those
+> things are true, I'm not taking either one back, and if you try to make me
+> pick one I'll just say them both again."
+
+And then, not looking over:
+
+> "Did you tell them? About the case."
+
+**SESSION 2 ENDS HERE**, on that question, unanswered.

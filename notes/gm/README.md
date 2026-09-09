@@ -15,3 +15,6 @@ happened; see `notes/player-facing/RECORD.md`.
 - `CLUES.md` — the mystery graph: revelations, clue status, who knows what
 - `characters/` — one file per recurring character
 - `plans/` — campaign, session, and scene plans
+- `RULES-SUPPLIED.md` — out-of-book rules text the player has pasted in, because
+  the bundled skills don't have it and the network proxy blocks the SRD sites.
+  **Read it before ruling on anything Eyeswide; never ask for it twice.**

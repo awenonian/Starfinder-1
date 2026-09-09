@@ -107,65 +107,91 @@ between Shanhi's word and a document that clears the supplier and names the room
 - **Shanhi's application to Eyeswide is in**, and has been for a while. It will be
   decided by Denvara Oash.
 
-## Where things stand — session 2, night before the meeting
+## Where things stand at the end of session 2
 
-**2310, the evening before the Eyeswide meeting.**
+**1950ish, the flat, three days after session 1.** She has slept two nights
+running and intends to keep doing it.
 
-### Carried over from session 1
+### Money and kit
 
-- **The Huvv job is finished.** The supplier, Rennick, was innocent and billed
-  honestly. Teren, the night manager, has been taking about a fifth of each
-  delivery out the service door for six weeks to service a **940-credit debt**
-  to a lender two levels down. Next payment due in **seven days** now.
-- **Huvv knows all of it**, including that Shanhi broke her lock and went through
-  Teren's coat. She said she'd ask Teren herself, that night. **Shanhi has not
-  been back and does not know how that went.**
-- **Huvv asked Shanhi to come back. Not for work.** Shanhi didn't answer.
-- **14 credits.** Cost of living is 10/week Comfortable.
+- **11 credits.** Spent this session: 2 on a terminal session, 1 on a
+  sealed-service envelope.
+- **Employed by the Eyeswide Agency.** 40 credits a week, paid in arrears on the
+  seventh day, plus **pre-approved** expenses (form E-9, submitted *before* —
+  the receptionist was explicit and unamused).
+- **Training: three mornings a week, two hours, with Oash, starting Firstday.**
+  Not optional. "Harder than you are expecting." The dedication and the limited
+  telepathy land out of this.
+- Carrying the **grey wallet** — everything Eyeswide gathered on her, hers to
+  keep. She has not read it yet.
 
-### Home, and Pell
+### What she knows about Oash
 
-- Shanhi lives nine levels down and two rings inward from Huvv's concourse. One
-  room and a partition. Pell is there more nights than not.
-- **Pell knows about Eyeswide and is delighted.** A wage, a desk, people who
-  answer the comm. **Pell has not asked why she applied.**
-- Pell's Ring Seven job "always runs over."
+- Nineteen years' licence, one employer, no findings, no bond claims.
+- 46 Eyeswide licences in six years, 31 remain, the ones that ended mostly ended
+  between nine and twenty months in. **Oash signed the sponsor line on all 46.**
+- The Sarn case, from Vey Torrance: Oash withheld the only thing that mattered
+  and never said a false word, and Vey checked the transcript line by line.
+- Oash read her whole file including the board transcript — *"forty-one pages.
+  Thirty-four of them are about a signature."*
+- **What Eyeswide can actually do**, from Oash directly: the send opens nothing;
+  years in, you learn to press a question into a mind; past that there is a
+  reading, once a day, close, surface only. **Oash has it. Two others in the
+  building have it. She says she did not use it on Shanhi.** House rule she
+  wrote and enforces: use it and you tell the person afterwards, always — she
+  has put two people out of the building over it.
+- The rumour that headscanners read minds at will is **very good for Eyeswide
+  and they have never corrected it.** She said so.
 
-### What she now knows about Denvara Oash
+### The Vandermeer job
 
-From the public licence roll at the Bonding Office:
+- **Corin Vandermeer** says his mother **Talia**, 71, is being robbed of 60
+  credits a month by her carer **Odett Varn**, and wants it documented for a
+  guardianship petition.
+- Eighteen months of statements. Every row identical, every row tagged
+  **STO/04 — CONTINUING**, and **not one NEW MANDATE row** — the standing order
+  was already running before the oldest page anyone has shown her. Destination
+  is **Sebwe & Co., pooled client account**, which shows the transfer and not
+  the recipient.
+- Talia's pension is 94 credits. **She owns 6-114 outright.**
+- **Odett has been in post three years two months.** Licence clean for fourteen
+  years, no findings. Two previous clients died in post, which is what the job
+  is. A dead client left her 200 credits "who was kind to me." Nothing in the
+  feeds in the window Shanhi searched.
+- **The test: one document older than thirty-eight months.** Corin can't get it
+  — read-only access, and asking his mother would expose him. The paper is in
+  Talia's flat, which is full of it.
+- **Corin is lying about something else.** He was handed cash by a Cantrell Yard
+  6 goods inspector, tried to explain it, and it fell apart on delivery. He
+  knows she knows. His stated reason for hiring now — the flat — is factually
+  wrong and sincerely held. His real deadline, *"it needs to be sorted this
+  year,"* is his own and belongs to nothing about his mother.
+- **Cantrell**: Talia did forty years there, mostly Yard Six, floor rigger to
+  rigging supervisor. Corin's shop exists on her name and contacts. She never
+  once attended a yard social in forty years.
+- **The letter is in the post**, sealed-service, reaching 6-114 after 0700
+  tomorrow. It names Eyeswide. Corin has asked her not to tell his mother he was
+  behind it — after the fact.
 
-- **Nineteen years' licence. Agency of record: Eyeswide, continuously, never
-  amended. No disciplinary entries. No bond claims.**
-- **46** licences have listed Eyeswide as agency of record in the last six
-  years. **31** list it now. Nine amended away, **six lapsed.** The ones that
-  ended mostly ended **between nine and twenty months in.**
-- **Oash signed the sponsoring-principal line on all 46.** Nobody else at that
-  firm has signed one in six years.
+### People
 
-From Vey Torrance, retired Station Security detective, at the Loading Gate:
-
-- The **Aldo Sarn** case, four years ago. Oash, working for the carrier's
-  insurer, asked permission to sit with the widow and waited for it. Came out
-  with three true things Security didn't have and handed them over for nothing.
-  Case closed in a week.
-- Eleven months later Vey found Sarn had been skimming about forty credits a
-  night — the reason he was standing where he was standing. She pulled Eyeswide's
-  transcript and read it line by line. **Not one false word in it.** Oash had
-  never said Sarn was clean and never said that was everything.
-- Vey's verdict: *"She's the most honest person I've ever met and I'd rather she
-  was on my side of the tape."*
-
-### The thing Vey said that Shanhi didn't ask for
-
-> "Not that they binned you. Sure, they binned you. It's that binning you was
-> *all* they did."
-
-No charge sheet. No conduct finding. No licence hold. A PI ticket inside four
-months, for a detective who defied a direct order and kept going. **Vey drew no
-conclusion from it.**
+- **Huvv** — invitation answered. Shanhi came and ate and was not allowed to
+  pay. *"Next week."* Huvv kept Teren on, is holding back a third of his pay
+  against roughly 200 credits, and has made peace with Rennick. Teren has
+  **seven days** and told her he'd sort it, which is what he said last time.
+- **Pell** — knows about the job and is glad. Made a list of what a wage buys and
+  struck out the last line with a ruler. Has now heard that Shanhi's new employer
+  hired her for the thing that got her sacked, called it a **known defect**, and
+  asked the question Pell has never asked: **"Did you tell them? About the
+  case."** Unanswered.
+- **Vey Torrance** — retired detective, Loading Gate, talks because she's asked.
+  No reach.
+- **Odett Varn** — caught lying to Talia, on the doorstep, in front of Shanhi.
+  Now knows an investigator is asking.
+- **Talia Vandermeer** — has never been seen. Speaks through doors. Told Shanhi
+  to put it in writing and told Odett to stop standing in the hall.
 
 ## The next thing
 
-**The Eyeswide Agency. Ring Three office, 0900, tomorrow morning.** Bring
-something to write with. D. Oash, Senior Partner.
+Tomorrow: the letter lands. **Firstday: training with Oash.** And a question in
+this room, right now, that hasn't been answered.

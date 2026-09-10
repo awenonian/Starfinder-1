@@ -11,8 +11,13 @@ your decision for something the table established.
 
 ## Chaos factor
 
-**5** — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
-**Always pass `--chaos 5`; check this line before every oracle call.**
+**6** — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
+**Always pass `--chaos 6`; check this line before every oracle call.**
+
+Raised to 6 at the top of session 3: Pell asked the question, Shanhi didn't
+answer it, and Pell accepted that and put the list away. She ended that scene
+holding strictly more unresolved than she started it with, and having spent the
+arrangement that kept it unresolved comfortably.
 
 Raised from 4 at the end of session 2. Session 1 was a session that *closed*
 things; session 2 opened them. Shanhi gained a wage, a case and a method — but

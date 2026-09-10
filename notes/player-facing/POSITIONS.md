@@ -82,3 +82,18 @@ Format, loosely:
 > then asked the question they have never asked in three years: **"Did you tell
 > them? About the case."** Cost them the arrangement that has kept this working
 > — the one where Pell doesn't ask. *(Session 2, the flat, ~1950)*
+
+> **Teoshanhi** — asked point-blank whether she told Eyeswide about the case,
+> she answered a question that hadn't been asked (*"I didn't have to, they
+> already knew"*) and let the real one stand. She knew she was doing it and knew
+> what Pell was actually asking. Cost: the one arrangement that had kept this
+> working — the one where Pell doesn't ask — has now been used, and she chose
+> not to pay for it. *(Session 3, the flat, ~1955)*
+
+> **Pell** — accepted the non-answer. Said "fine" three times, named the gap
+> once and then let it go, stopped a second sentence deliberately rather than
+> finish it, and **folded the list away into their overtunic pocket.** Cost:
+> Pell has now asked the question they spent three years not asking, got nothing
+> for it, and has learned that asking produces nothing. Per Pell's file, the
+> failure mode is not shouting — it is Pell stopping asking. This is the first
+> instalment of that. *(Session 3, the flat, ~1955)*

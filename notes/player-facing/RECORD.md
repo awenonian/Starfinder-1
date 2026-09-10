@@ -930,3 +930,72 @@ And then, not looking over:
 > "Did you tell them? About the case."
 
 **SESSION 2 ENDS HERE**, on that question, unanswered.
+
+---
+
+# Session 3
+
+**Resumed on the unanswered question. The flat, ~1950, continuous with the end
+of session 2.**
+
+### The flat, ~1955 — the question, not answered
+
+Shanhi sat down on the bed, fell back into it, rubbed her face, and gave Pell
+this:
+
+> "I didn't have to. They already knew. They said they read my whole file. My
+> whole life."
+> "I don't know if that's good or not yet. Saves me the effort I guess."
+
+**Pell heard the gap immediately and named it, without heat:**
+
+> "They read your file."
+> "That's not what I asked, though. Is it."
+
+Then the inspection metaphor, which Pell reached for the way Pell always does —
+the *operator disclosure* box on the form. Whether the people running the thing
+came and told the inspector before the inspector found it.
+
+> "Doesn't change the crack. Not one thing about the crack. It's the same crack
+> either way and I write it up the same." … "Changes everything about what
+> happens after, though. Every single time. I don't know why. It just does."
+
+**And then Pell stopped again** — the second time in ten minutes, and quieter
+than the first. Not a wall going up mid-sentence. A person deciding not to spend
+something.
+
+> "...Anyway."
+> "No. Alright. Fine. They already had it, so you didn't have to say it. That's
+> — fine, that's an answer, I'm not going to sit here and—" *(breath)* "Fine."
+
+**Pell took the list off the blanket, folded it in half along the ruled line,
+folded it again, and put it in the overtunic pocket.** Not thrown. Not made a
+thing of. Put away, like a document read into the record that doesn't need to be
+on the table any more.
+
+Then lay down, arms behind head, looking at the ceiling instead of at her.
+
+> "Early one for me. Half five. It's the Ring Seven walk-down and that one
+> always runs long, and then I've got to write the same—" *(caught it, turned it
+> off mid-word)* "No. You've got your first proper morning. Eight, you said?
+> With her?"
+> "Turn the light off when you're ready. Or don't. I can sleep through it, I've
+> done it before."
+
+**The player's own reasoning, out of character, and the most important thing in
+this scene:**
+
+> "I just can't do it right now. I know what she's asking, and I know I didn't
+> answer it. And I know she doesn't actually care what I told them. She cares
+> what I told *myself*."
+>
+> "I don't know what the right answer is. I know what she wants to hear, but I
+> don't know if it's *right*. If it even *could be* true. I don't know if I'm
+> that person. If I ever could be."
+
+**She turned off the light and turned in.** The question is not closed. It is
+spent — Pell asked it once, accepted a non-answer once, and put the list away.
+
+**GM: this is Shanhi's actual wall, stated plainly by the player.** Not *will she
+stop* — whether the person who stops is a person she believes exists. Do not
+resolve this from outside. Do not have anyone tell her the answer.
